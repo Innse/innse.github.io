@@ -2,7 +2,7 @@
 
 I'm currently a Second-Year Master Student of [SCUT](http://www.scut.edu.cn) (South China University of Technology). Before that, I obtained the B.Eng degree in CS, [SCUT](http://www.scut.edu.cn) in 2019. Recently, I have also spent time interning at [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index).
 
-***I am looking for a job offer or a PhD position.***
+***I am looking for a PhD position.***
 
 ## Research
 
