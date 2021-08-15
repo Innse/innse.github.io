@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Yingxue Xu (徐映雪)
 
-You can use the [editor on GitHub](https://github.com/Innse/innsexu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm currently a Second-Year Master Student of [SCUT](http://www.scut.edu.cn) (South China University of Technology). Before that, I obtained the B.Eng degree in CS, [SCUT](http://www.scut.edu.cn) in 2019. Recently, I have also spent time interning at [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+***I am looking for a job offer or a PhD position.***
 
-### Markdown
+## Research
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am interested in developing deep learning algorithms for medical image analysis. More specifically, I focus on Multi-Task Learning, Domain Adaptation / Generalization, Multi-Scale Feature Modeling.
 
-```markdown
-Syntax highlighted code block
+## Publications
 
-# Header 1
-## Header 2
-### Header 3
+(\*: corresponding author)
 
-- Bulleted
-- List
+- **Task-Coupling Elastic Learning for Physical Sign-based Medical Image Classification** \[Paper\]  
+  **Yingxue Xu**, Guihua Wen\*, [Pei Yang](https://scholar.google.com/citations?hl=en&user=97CfnB0AAAAJ&view_op=list_works&sortby=pubdate), Baochao Fan, Yang Hu, Mingnan Luo, Changjun Wang.   
+  IEEE Journal of Biomedical and Health Informatics, 2021, (Under review – Minor Revision, 2 round). 
 
-1. Numbered
-2. List
+- **Graph-based Visual-Semantic Entanglement Network for Zero-shot Image Recognition** \[[Paper](https://ieeexplore.ieee.org/abstract/document/9437712)\]   
+  Yang Hu, Guihua Wen*, Adriane Chapman, [Pei Yang](https://scholar.google.com/citations?hl=en&user=97CfnB0AAAAJ&view_op=list_works&sortby=pubdate), Mingnan Luo, **Yingxue Xu**, Dan Dai, [Wendy Hall](https://wendy.ecs.soton.ac.uk/).   
+  IEEE Transactions on Multimedia, 2021
 
-**Bold** and _Italic_ and `Code` text
+- **Multiple Attentional Pyramid Networks for Chinese Herbal Recognition** \[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320320303617)\]   
+  **Yingxue Xu**, Guihua Wen\*, Yang Hu, Mingnan Luo, Dan Dai, Yishan Zhuang, [Wendy Hall](https://wendy.ecs.soton.ac.uk/).   
+  Pattern Recognition, 2020
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Contact me
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Innse/innsexu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- E-mail: innse76@outlook.com
+- [Zhihu (in Chinese)](https://www.zhihu.com/people/innse)
