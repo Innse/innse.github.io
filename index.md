@@ -14,7 +14,7 @@ I am interested in developing deep learning algorithms for medical image analysi
 
 - **Task-Coupling Elastic Learning for Physical Sign-based Medical Image Classification** \[Paper\]  
   **Yingxue Xu**, Guihua Wen\*, [Pei Yang](https://scholar.google.com/citations?hl=en&user=97CfnB0AAAAJ&view_op=list_works&sortby=pubdate), Baochao Fan, Yang Hu, Mingnan Luo, Changjun Wang.   
-  IEEE Journal of Biomedical and Health Informatics, 2021, (Under review – Minor Revision, 2 round). 
+  IEEE Journal of Biomedical and Health Informatics, 2021. 
 
 - **Graph-based Visual-Semantic Entanglement Network for Zero-shot Image Recognition** \[[Paper](https://ieeexplore.ieee.org/abstract/document/9437712)\]   
   Yang Hu, Guihua Wen*, Adriane Chapman, [Pei Yang](https://scholar.google.com/citations?hl=en&user=97CfnB0AAAAJ&view_op=list_works&sortby=pubdate), Mingnan Luo, **Yingxue Xu**, Dan Dai, [Wendy Hall](https://wendy.ecs.soton.ac.uk/).   
