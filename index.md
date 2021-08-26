@@ -13,15 +13,15 @@ I am interested in developing deep learning algorithms for medical image analysi
 (\*: corresponding author)
 
 - **Task-Coupling Elastic Learning for Physical Sign-based Medical Image Classification** \[[Paper](https://ieeexplore.ieee.org/document/9521752)\]  
-  **Yingxue Xu**, Guihua Wen\*, [Pei Yang](https://scholar.google.com/citations?hl=en&user=97CfnB0AAAAJ&view_op=list_works&sortby=pubdate), Baochao Fan, Yang Hu, Mingnan Luo, Changjun Wang.   
+  **Yingxue Xu**, Guihua Wen\*, [Pei Yang](https://scholar.google.com/citations?hl=en&user=97CfnB0AAAAJ&view_op=list_works&sortby=pubdate), Baochao Fan, [Yang Hu](https://scholar.google.com/citations?hl=zh-CN&user=pUL6_G0AAAAJ&view_op=list_works&sortby=pubdate), Mingnan Luo, Changjun Wang.   
   IEEE Journal of Biomedical and Health Informatics, 2021. 
 
 - **Graph-based Visual-Semantic Entanglement Network for Zero-shot Image Recognition** \[[Paper](https://ieeexplore.ieee.org/abstract/document/9437712)\]   
-  Yang Hu, Guihua Wen*, Adriane Chapman, [Pei Yang](https://scholar.google.com/citations?hl=en&user=97CfnB0AAAAJ&view_op=list_works&sortby=pubdate), Mingnan Luo, **Yingxue Xu**, Dan Dai, [Wendy Hall](https://wendy.ecs.soton.ac.uk/).   
+  [Yang Hu](https://scholar.google.com/citations?hl=zh-CN&user=pUL6_G0AAAAJ&view_op=list_works&sortby=pubdate), Guihua Wen*, Adriane Chapman, [Pei Yang](https://scholar.google.com/citations?hl=en&user=97CfnB0AAAAJ&view_op=list_works&sortby=pubdate), Mingnan Luo, **Yingxue Xu**, Dan Dai, [Wendy Hall](https://wendy.ecs.soton.ac.uk/).   
   IEEE Transactions on Multimedia, 2021
 
 - **Multiple Attentional Pyramid Networks for Chinese Herbal Recognition** \[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320320303617)\]   
-  **Yingxue Xu**, Guihua Wen\*, Yang Hu, Mingnan Luo, Dan Dai, Yishan Zhuang, [Wendy Hall](https://wendy.ecs.soton.ac.uk/).   
+  **Yingxue Xu**, Guihua Wen\*, [Yang Hu](https://scholar.google.com/citations?hl=zh-CN&user=pUL6_G0AAAAJ&view_op=list_works&sortby=pubdate), Mingnan Luo, Dan Dai, Yishan Zhuang, [Wendy Hall](https://wendy.ecs.soton.ac.uk/).   
   Pattern Recognition, 2020
 
 
