@@ -12,7 +12,7 @@ I am interested in developing deep learning algorithms for medical image analysi
 
 (\*: corresponding author)
 
-- **Task-Coupling Elastic Learning for Physical Sign-based Medical Image Classification** \[Paper\](https://ieeexplore.ieee.org/document/9521752)  
+- **Task-Coupling Elastic Learning for Physical Sign-based Medical Image Classification** \[[Paper](https://ieeexplore.ieee.org/document/9521752)\]  
   **Yingxue Xu**, Guihua Wen\*, [Pei Yang](https://scholar.google.com/citations?hl=en&user=97CfnB0AAAAJ&view_op=list_works&sortby=pubdate), Baochao Fan, Yang Hu, Mingnan Luo, Changjun Wang.   
   IEEE Journal of Biomedical and Health Informatics, 2021. 
 
