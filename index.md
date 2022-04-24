@@ -2,6 +2,15 @@
 
 I'm currently a Third-Year Master Student of [SCUT](http://www.scut.edu.cn) (South China University of Technology) under the supervison of Prof. Guihua Wen. Before that, I obtained the B.S. degree in CS, [SCUT](http://www.scut.edu.cn) in 2019. Recently, I have also spent time interning at [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index) under the supervison of Dr. De Cai and [Xiao Han](https://www.linkedin.com/in/xiaohan2009).
 
+## Education
+
+### South China University of Technology
+Master of Computer Science
+- National Scholarship
+
+### South China University of Technology
+Bachelor of Computer Science
+- GPA: 3.78/4.00
 
 ## Research
 
