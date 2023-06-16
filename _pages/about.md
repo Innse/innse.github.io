@@ -20,7 +20,7 @@ News
 <h2 id="education_experience"> Education & Experience</h2>
 <table cellspacing="1" frame="void" rules="none">
 <tbody><tr>
-    <td>2022 - present &nbsp;&nbsp;&nbsp;</td>
+    <td>08/2022 - present &nbsp;&nbsp;&nbsp;</td>
     <td><b>HKUST</b>, Hong Kong, China</td>
 </tr>
 <tr>
