@@ -17,7 +17,7 @@ News
 - [06/2021] I start internship at [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index) under the supervison of Dr. De Cai and [Xiao Han](https://www.linkedin.com/in/xiaohan2009).
 - [12/2020] I'm honored with National Scholarship.
 
-<h2 id="education_experience"> Education & Experience</h2>
+<h1 id="education_experience"> Education & Experience</h1>
 <table cellspacing="1" style="border-color: transparent;">
 <tbody><tr>
     <td>08/2022 - present &nbsp;&nbsp;&nbsp;</td>
@@ -128,7 +128,7 @@ Preprint
 
           
          </tbody></table>
-<h2 id="publication"> Publications</h2>
+<h1 id="publication"> Publications</h1>
 
 How to edit your site's GitHub repository
 ------
