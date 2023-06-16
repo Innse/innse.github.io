@@ -61,8 +61,8 @@ Preprint
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
                 <div class="two" id="flare_image" style="opacity: 0;">
-                  <img src="images/" width="195"></div>
-                <img src="images/" width="195">
+                  <img src="images/motcat.png" width="195"></div>
+                <img src="images/motcat.png" width="195">
               </div>
               <script type="text/javascript">
                 function flare_start() {
@@ -96,8 +96,8 @@ Preprint
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
                 <div class="two" id="flare_image">
-                  <img src="images/" width="180"></div>
-                <img src="images/" width="180">
+                  <img src="images/deephot.png" width="180"></div>
+                <img src="images/deephot.png" width="180">
               </div>
               <script type="text/javascript">
                 function flare_start() {
