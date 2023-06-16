@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : Yingxue XU"Your Sidebar Name"
+  name             : "Yingxue XU"
   avatar           : "profile.png"
-  bio              : PhD student in CSE of HKUST"Your biography for the left-hand sidebar"
+  bio              : "Ph.D student in CSE of HKUST"
   location         : "Hong Kong"
   employer         :
   pubmed           : ""
