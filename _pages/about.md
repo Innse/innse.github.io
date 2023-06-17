@@ -10,6 +10,11 @@ redirect_from:
 
 I'm a Ph.D Student (2022 Fall) in CSE of [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) supervised by Prof. [Hao CHEN](https://cse.hkust.edu.hk/~jhc/). Before that, I obtained the B.Eng and Msc. degree in CS, [SCUT](http://www.scut.edu.cn) in 2019 and 2022.
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 News
 ======
 - [08/2022] I start Ph.D at [SMART](https://hkustsmartlab.netlify.app/)@HKUST on 2022 Fall.
