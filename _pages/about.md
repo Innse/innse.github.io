@@ -18,7 +18,7 @@ News
 - [12/2020] I'm honored with National Scholarship.
 
 <h1 id="education_experience"> Education & Experience</h1>
-<table cellspacing="1" style="border: none;">
+<table cellspacing="1" style="border: none;rules:none;">
 <tbody><tr>
     <td>08/2022 - present &nbsp;&nbsp;&nbsp;</td>
     <td><b>HKUST</b>, Hong Kong, China</td>
@@ -55,7 +55,7 @@ News
 
 Preprint
 ======
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;rules:none;"><tbody>
 
           <tr onmouseout="flare_stop()" onmouseover="flare_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
