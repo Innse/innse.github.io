@@ -207,7 +207,7 @@ Preprint
               Guihua Wen*,
               Adriane Chapman,
               <a href="https://scholar.google.com/citations?hl=en&user=97CfnB0AAAAJ&view_op=list_works">Pei Yang*</a>,
-	      <a href="">Mingnan Luo</a>,
+	      Mingnan Luo,
 	      <strong>Yingxue Xu</strong>,
        	      Dan Dai,
 	      <a href="https://wendy.ecs.soton.ac.uk/">Wendy Hall</a>,
@@ -215,6 +215,44 @@ Preprint
 							<em>IEEE Transactions on Multimedia</em>, 2021
               <br>
               <a href="https://ieeexplore.ieee.org/abstract/document/9437712">[Paper]</a>
+              <p></p>
+              
+            </td>
+          </tr> 
+	  
+	  <tr onmouseout="flare_stop()" onmouseover="flare_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id="flare_image">
+                  <img src="images/deephot.png" width="180"></div>
+              </div>
+              <script type="text/javascript">
+                function flare_start() {
+                  document.getElementById('flare_image').style.opacity = "1";
+                }
+
+                function flare_stop() {
+                  document.getElementById('flare_image').style.opacity = "0";
+                }
+                flare_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320320303617">
+                <papertitle><font size="3">Multiple Attentional Pyramid Networks for Chinese Herbal Recognition</font></papertitle>
+              </a>
+              <br>
+	      <strong>Yingxue Xu</strong>,
+              Guihua Wen*,
+	      <a href="https://superhy.github.io/">Yang Hu</a>,
+	      Mingnan Luo,
+       	      Dan Dai, 
+	      Yishan Zhuang, 
+	      <a href="https://wendy.ecs.soton.ac.uk/">Wendy Hall</a>,
+              <br>
+							<em>Pattern Recognition</em>, 2020
+              <br>
+              <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320320303617">[Paper]</a>
               <p></p>
               
             </td>
