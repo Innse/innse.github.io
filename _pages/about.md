@@ -23,14 +23,14 @@ News
 - [12/2020] I'm honored with National Scholarship.
 
 <h1 id="education_experience"> Education & Experience</h1>
-<table style="border: none;rules:none;cellspacing:0;">
+<table style="border: none;rules:none;cellspacing:0;font-size:14px;">
 <tbody><tr>
     <td>08/2022 - present &nbsp;&nbsp;&nbsp;</td>
     <td><b>HKUST</b>, Hong Kong, China</td>
 </tr>
 <tr>
     <td></td>
-    <td><font color="grey">PhD in Computer Science and Engineering</font></td>
+    <td><font color="grey" size="5">PhD in Computer Science and Engineering</font></td>
 </tr>
 <tr>
     <td>06/2021 - 09/2021 &nbsp;&nbsp;&nbsp;</td>
