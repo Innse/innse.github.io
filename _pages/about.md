@@ -166,7 +166,8 @@ Preprint
               <strong>Yingxue Xu</strong>, Guihua Wen*,
               <a href="https://scholar.google.com/citations?hl=en&user=97CfnB0AAAAJ&view_op=list_works">Pei Yang</a>, 
               Baochao Fan, 
-              <a href="https://scholar.google.com/citations?hl=zh-CN&user=pUL6_G0AAAAJ&view_op=list_works">Pei Yang</a>
+              <a href="https://scholar.google.com/citations?hl=zh-CN&user=pUL6_G0AAAAJ&view_op=list_works">Yang Hu</a>, 
+	      Mingnan Luo, Changjun Wang
               <br>
 							<em>IEEE Journal of Biomedical and Health Informatics</em>, 2021
               <br>
