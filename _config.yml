@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : images/xyx.JPG
+og_image                 : 
 # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Yingxue XU"
-  avatar           : "profile.png"
+  avatar           : "images/xyx.JPG"
   bio              : "Ph.D student in CSE of HKUST"
   location         : "Hong Kong"
   employer         :
