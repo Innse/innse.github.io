@@ -23,7 +23,7 @@ News
 - [12/2020] I'm honored with National Scholarship.
 
 <h1 id="education_experience"> Education & Experience</h1>
-<table style="border: none;rules:none;cellspacing:0;font-size:14px;">
+<table style="border: none;rules:none;cellspacing:0;font-size:20px;">
 <tbody><tr>
     <td><b>08/2022 - present</b> &nbsp;&nbsp;&nbsp;</td>
     <td><b>HKUST</b>, Hong Kong, China</td>
