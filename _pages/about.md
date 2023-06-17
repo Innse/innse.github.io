@@ -34,11 +34,11 @@ News
 </tr>
 <tr>
     <td><b>06/2021 - 09/2021</b> &nbsp;&nbsp;&nbsp;</td>
-    <td><b>Tencent AI Lab</b>, Intern researcher on Computer Vision, Shenzhen</td>
+    <td><b>Tencent AI Lab</b>, Shenzhen, China</td>
 </tr>
 <tr>
     <td></td>
-    <td><font color="grey">Computational Cervical Cytology</font></td>
+    <td><font color="grey">Intern researcher on Computer Vision, Computational Cervical Cytology</font></td>
 </tr>
 <tr>
     <td><b>09/2019 - 06/2022</b> &nbsp;&nbsp;&nbsp;</td>
