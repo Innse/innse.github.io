@@ -25,7 +25,7 @@ News
 <h1 id="education_experience"> Education & Experience</h1>
 <table style="border: none;rules:none;cellspacing:0;font-size:14px;">
 <tbody><tr>
-    <td>08/2022 - present &nbsp;&nbsp;&nbsp;</td>
+    <td><b>08/2022 - present</b> &nbsp;&nbsp;&nbsp;</td>
     <td><b>HKUST</b>, Hong Kong, China</td>
 </tr>
 <tr>
@@ -33,15 +33,15 @@ News
     <td><font color="grey" size="5">PhD in Computer Science and Engineering</font></td>
 </tr>
 <tr>
-    <td>06/2021 - 09/2021 &nbsp;&nbsp;&nbsp;</td>
-    <td><b>Intern researcher on Computer Vision</b>, Tencent AI Lab, Shenzhen</td>
+    <td><b>06/2021 - 09/2021</b> &nbsp;&nbsp;&nbsp;</td>
+    <td><b>Tencent AI Lab</b>, Intern researcher on Computer Vision, Shenzhen</td>
 </tr>
 <tr>
     <td></td>
     <td><font color="grey">Computational Cervical Cytology</font></td>
 </tr>
 <tr>
-    <td>09/2019 - 06/2022 &nbsp;&nbsp;&nbsp;</td>
+    <td><b>09/2019 - 06/2022</b> &nbsp;&nbsp;&nbsp;</td>
     <td><b>South China University of Technology</b>, Guangzhou, China</td>
 </tr>
 <tr>
@@ -49,7 +49,7 @@ News
     <td><font color="grey">Master in Computer Science and Technology</font></td>
 </tr>
 <tr>
-    <td>09/2015 - 06/2019 &nbsp;&nbsp;&nbsp;</td>
+    <td><b>09/2015 - 06/2019</b> &nbsp;&nbsp;&nbsp;</td>
     <td><b>South China University of Technology</b>, Guangzhou, China</td>
 </tr>
 <tr>
