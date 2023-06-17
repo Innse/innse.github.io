@@ -30,7 +30,7 @@ News
 </tr>
 <tr>
     <td></td>
-    <td><font color="grey" size="5">PhD in Computer Science and Engineering</font></td>
+    <td><font color="grey">PhD in Computer Science and Engineering</font></td>
 </tr>
 <tr>
     <td><b>06/2021 - 09/2021</b> &nbsp;&nbsp;&nbsp;</td>
