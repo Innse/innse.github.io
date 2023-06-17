@@ -121,7 +121,7 @@ Preprint
               </a>
               <br>
               <strong>Yingxue Xu</strong>,
-              <a href="">Guihua Wen</a>,
+              Guihua Wen,
               <a href="https://superhy.github.io/">Yang Hu</a>,
               <a href="https://scholar.google.com/citations?hl=en&user=97CfnB0AAAAJ&view_op=list_works">Pei Yang*</a>
               <br>
@@ -204,12 +204,12 @@ Preprint
               <br>
 	      <a href="https://superhy.github.io/">Yang Hu</a>,
               
-              <a href="">Guihua Wen*</a>,
-              <a href="">Adriane Chapman</a>,
+              Guihua Wen*,
+              Adriane Chapman,
               <a href="https://scholar.google.com/citations?hl=en&user=97CfnB0AAAAJ&view_op=list_works">Pei Yang*</a>,
 	      <a href="">Mingnan Luo</a>,
 	      <strong>Yingxue Xu</strong>,
-       	      <a href="">Dan Dai</a>,
+       	      Dan Dai,
 	      <a href="https://wendy.ecs.soton.ac.uk/">Wendy Hall</a>,
               <br>
 							<em>IEEE Transactions on Multimedia</em>, 2021
