@@ -90,7 +90,7 @@ Preprint
               <a href="https://cse.hkust.edu.hk/~jhc/">Hao Chen*</a>
               <br>
               <a href="https://arxiv.org/abs/2306.08330">[arXiv]</a>, 
-              <a href="https://github.com/Innse/MOTCat">[Code], 2023</a>
+              <a href="https://github.com/Innse/MOTCat">[Code]</a>, 2023
               <p></p>
               <p>
               </p>
@@ -125,7 +125,7 @@ Preprint
               <a href="https://superhy.github.io/">Yang Hu</a>,
               <a href="https://scholar.google.com/citations?hl=en&user=97CfnB0AAAAJ&view_op=list_works">Pei Yang*</a>
               <br>
-              <a href="https://arxiv.org/abs/2211.11424">[arxiv], 2022</a>
+              <a href="https://arxiv.org/abs/2211.11424">[arxiv]</a>, 2022
               <p></p>
               
             </td>
@@ -160,8 +160,9 @@ Preprint
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;">
               <a href="https://ieeexplore.ieee.org/document/9521752">
-                <papertitle><font size="3">Task-Coupling Elastic Learning for Physical Sign-based Medical Image Classification (Perspective Featured Article)</font></papertitle>
+                <papertitle><font size="3">Task-Coupling Elastic Learning for Physical Sign-based Medical Image Classification</font></papertitle>
               </a>
+	      <font size="3"> (Perspective Featured Article)</font>
               <br>
               <strong>Yingxue Xu</strong>, Guihua Wen*,
               <a href="https://scholar.google.com/citations?hl=en&user=97CfnB0AAAAJ&view_op=list_works">Pei Yang</a>, 
