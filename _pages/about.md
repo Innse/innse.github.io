@@ -80,7 +80,7 @@ Preprint
                 flare_stop()
               </script>
             </td>
-            <td style="padding:20px;width:75%;vertical-align:middle;font-size:16px;">
+            <td style="padding:20px;width:75%;vertical-align:middle;">
               <a href="https://arxiv.org/abs/2306.08330">
                 <papertitle><font size="3">Multimodal Optimal Transport-based Co-Attention Transformer with Global Structure Consistency for Survival Prediction</font></papertitle>
               </a>
@@ -115,7 +115,7 @@ Preprint
                 flare_stop()
               </script>
             </td>
-            <td style="padding:20px;width:75%;vertical-align:middle;font-size:16px;">
+            <td style="padding:20px;width:75%;vertical-align:middle;">
               <a href="https://arxiv.org/abs/2211.11424">
                 <papertitle><font size="3">Unsupervised Domain Adaptation via Deep Hierarchical Optimal Transport</font></papertitle>
               </a>
