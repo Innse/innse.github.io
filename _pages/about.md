@@ -269,3 +269,5 @@ Teaching
     <td><b>2023 Spring</b> &nbsp;&nbsp;&nbsp;</td>
     <td>COMP2011 - Programming with C++</td>
 </tr>
+</tbody></table>
+
