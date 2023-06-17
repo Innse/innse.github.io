@@ -90,7 +90,7 @@ Preprint
               <a href="https://cse.hkust.edu.hk/~jhc/">Hao Chen*</a>
               <br>
               <a href="https://arxiv.org/abs/2306.08330">[arXiv]</a>, 
-              <a href="https://github.com/Innse/MOTCat">[Code]</a>
+              <a href="https://github.com/Innse/MOTCat">[Code], 2023</a>
               <p></p>
               <p>
               </p>
@@ -124,7 +124,8 @@ Preprint
               <a href="">Guihua Wen</a>,
               <a href="https://superhy.github.io/">Yang Hu</a>,
               <a href="https://scholar.google.com/citations?hl=en&user=97CfnB0AAAAJ&view_op=list_works">Pei Yang*</a>
-              <a href="https://arxiv.org/abs/2211.11424">[arxiv]</a>
+              <br>
+              <a href="https://arxiv.org/abs/2211.11424">[arxiv], 2022</a>
               <p></p>
               
             </td>
@@ -136,7 +137,84 @@ Preprint
 </body>
 
 <h1 id="publication"> Publications</h1>
+<body>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;rules:none;"><tbody>
 
+          <tr onmouseout="flare_stop()" onmouseover="flare_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id="flare_image" style="opacity: 0;">
+                  <img src="images/motcat.png" width="195"></div>
+                  <img src="images/motcat.png" width="195">
+              </div>
+              <script type="text/javascript">
+                function flare_start() {
+                  document.getElementById('flare_image').style.opacity = "1";
+                }
+
+                function flare_stop() {
+                  document.getElementById('flare_image').style.opacity = "0";
+                }
+                flare_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="https://ieeexplore.ieee.org/document/9521752">
+                <papertitle><font size="3">Task-Coupling Elastic Learning for Physical Sign-based Medical Image Classification (Perspective Featured Article)</font></papertitle>
+              </a>
+              <br>
+              <strong>Yingxue Xu</strong>, Guihua Wen*,
+              <a href="https://scholar.google.com/citations?hl=en&user=97CfnB0AAAAJ&view_op=list_works">Pei Yang</a>, 
+              Baochao Fan, 
+              <a href="https://scholar.google.com/citations?hl=zh-CN&user=pUL6_G0AAAAJ&view_op=list_works">Pei Yang</a>
+              <br>
+							<em>IEEE Journal of Biomedical and Health Informatics</em>, 2021
+              <br>
+              <a href="https://arxiv.org/abs/2306.08330">[Paper]</a>
+              <p></p>
+              <p>
+              </p>
+            </td>
+          </tr> 
+
+
+          <tr onmouseout="flare_stop()" onmouseover="flare_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id="flare_image">
+                  <img src="images/deephot.png" width="180"></div>
+              </div>
+              <script type="text/javascript">
+                function flare_start() {
+                  document.getElementById('flare_image').style.opacity = "1";
+                }
+
+                function flare_stop() {
+                  document.getElementById('flare_image').style.opacity = "0";
+                }
+                flare_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="https://arxiv.org/abs/2211.11424">
+                <papertitle><font size="3">Unsupervised Domain Adaptation via Deep Hierarchical Optimal Transport</font></papertitle>
+              </a>
+              <br>
+              <strong>Yingxue Xu</strong>,
+              <a href="">Guihua Wen</a>,
+              <a href="https://superhy.github.io/">Yang Hu</a>,
+              <a href="https://scholar.google.com/citations?hl=en&user=97CfnB0AAAAJ&view_op=list_works">Pei Yang*</a>
+              <br>
+              <a href="https://arxiv.org/abs/2211.11424">[arxiv]</a>
+              <p></p>
+              
+            </td>
+          </tr> 
+
+
+          
+         </tbody></table>
+</body>
 How to edit your site's GitHub repository
 ------
 Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
