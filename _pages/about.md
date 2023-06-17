@@ -18,6 +18,7 @@ News
 - [12/2020] I'm honored with National Scholarship.
 
 <h1 id="education_experience"> Education & Experience</h1>
+<body>
 <table cellspacing="1" style="border: none;rules:none;">
 <tbody><tr>
     <td>08/2022 - present &nbsp;&nbsp;&nbsp;</td>
@@ -52,9 +53,11 @@ News
     <td><font color="grey">Bachelor in Computer Science and Technology</font></td>
 </tr>
 </tbody></table>
+</body>
 
 Preprint
 ======
+<body>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;rules:none;"><tbody>
 
           <tr onmouseout="flare_stop()" onmouseover="flare_start()">
@@ -126,6 +129,8 @@ Preprint
 
           
          </tbody></table>
+</body>
+
 <h1 id="publication"> Publications</h1>
 
 How to edit your site's GitHub repository
