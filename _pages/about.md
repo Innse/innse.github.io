@@ -23,7 +23,7 @@ News
 - [12/2020] I'm honored with National Scholarship.
 
 <h1 id="education_experience"> Education & Experience</h1>
-<table style="border: none;rules:none;cellspacing:0;font-size:20px;">
+<table style="border: none;rules:none;cellspacing:0;font-size:18px;">
 <tbody><tr>
     <td><b>08/2022 - present</b> &nbsp;&nbsp;&nbsp;</td>
     <td><b>HKUST</b>, Hong Kong, China</td>
@@ -80,9 +80,9 @@ Preprint
                 flare_stop()
               </script>
             </td>
-            <td style="padding:20px;width:75%;vertical-align:middle">
+            <td style="padding:20px;width:75%;vertical-align:middle;font-size:16px;">
               <a href="https://arxiv.org/abs/2306.08330">
-                <papertitle>Multimodal Optimal Transport-based Co-Attention Transformer with Global Structure Consistency for Survival Prediction</papertitle>
+                <papertitle><font size="5">Multimodal Optimal Transport-based Co-Attention Transformer with Global Structure Consistency for Survival Prediction</font></papertitle>
               </a>
               <br>
               <strong>Yingxue Xu</strong>,
@@ -114,7 +114,7 @@ Preprint
                 flare_stop()
               </script>
             </td>
-            <td style="padding:20px;width:75%;vertical-align:middle">
+            <td style="padding:20px;width:75%;vertical-align:middle;font-size:16px;">
               <a href="https://arxiv.org/abs/2211.11424">
                 <papertitle>Unsupervised Domain Adaptation via Deep Hierarchical Optimal Transport</papertitle>
               </a>
