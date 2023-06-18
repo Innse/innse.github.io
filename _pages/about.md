@@ -72,10 +72,8 @@ Preprint
 
           <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
-              <div class="one">
-                <div class="two" id="flare_image">
-                  <img src="images/motcat.png" width="195"></div>
-              </div>
+              
+                  <img src="images/motcat.png" width="195">
               <script type="text/javascript">
                 function flare_start() {
                   document.getElementById('flare_image').style.opacity = "1";
