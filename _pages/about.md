@@ -63,7 +63,7 @@ News
 
 Research Interests
 ======
-Multimodal Learning (e.g. Fusion, Missing Modality, Prompting and Foundation Model Pretraining), Survival Analysis, Domain Adaptation/Generalization
+Multimodal Learning (e.g. Fusion, Missing Modality, Prompting and Foundation Model Pretraining), Survival Analysis, Optimal Transport and Domain Adaptation/Generalization
 
 Preprint
 ======
