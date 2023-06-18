@@ -10,8 +10,8 @@ redirect_from:
 
 I'm a Ph.D Student (2022 Fall) in CSE of [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) supervised by Prof. [Hao CHEN](https://cse.hkust.edu.hk/~jhc/). Before that, I obtained the B.Eng and Msc. degree in CS, [SCUT](http://www.scut.edu.cn) in 2019 and 2022.
 
-<link rel="stylesheet" type="text/css" href="stylesheet.css">
-  <style>
+
+<style>
 
 td, th {
    border: none!important;
@@ -104,10 +104,9 @@ Preprint
 
           <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
-              <div class="one">
-                <div class="two" id="flare_image">
-                  <img src="images/deephot.png" width="180"></div>
-              </div>
+              
+                  <img src="images/deephot.png" width="180">
+              
               <script type="text/javascript">
                 function flare_start() {
                   document.getElementById('flare_image').style.opacity = "1";
@@ -146,10 +145,8 @@ Preprint
 
           <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
-              <div class="one">
-                <div class="two" id="flare_image">
-                  <img src="images/tcel.jpg" width="195"></div>
-              </div>
+              
+                  <img src="images/tcel.jpg" width="195">
               <script type="text/javascript">
                 function flare_start() {
                   document.getElementById('flare_image').style.opacity = "1";
@@ -185,10 +182,8 @@ Preprint
 
           <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
-              <div class="one">
-                <div class="two" id="flare_image">
-                  <img src="images/graph.jpg" width="180"></div>
-              </div>
+              
+                  <img src="images/graph.jpg" width="180">
               <script type="text/javascript">
                 function flare_start() {
                   document.getElementById('flare_image').style.opacity = "1";
@@ -225,10 +220,8 @@ Preprint
 	  
 	  <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
-              <div class="one">
-                <div class="two" id="flare_image">
-                  <img src="images/apn.png" width="180"></div>
-              </div>
+              
+                  <img src="images/apn.png" width="180">
               <script type="text/javascript">
                 function flare_start() {
                   document.getElementById('flare_image').style.opacity = "1";
