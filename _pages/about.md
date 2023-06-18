@@ -70,7 +70,7 @@ Preprint
           <tr onmouseout="flare_stop()" onmouseover="flare_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
-                <div class="two" id="flare_image" style="opacity: 0;">
+                <div class="two" id="flare_image">
                   <img src="images/motcat.png" width="195"></div>
               </div>
               <script type="text/javascript">
@@ -146,7 +146,7 @@ Preprint
           <tr onmouseout="flare_stop()" onmouseover="flare_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
-                <div class="two" id="flare_image" style="opacity: 0;">
+                <div class="two" id="flare_image">
                   <img src="images/tcel.jpg" width="195"></div>
               </div>
               <script type="text/javascript">
