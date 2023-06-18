@@ -10,11 +10,47 @@ redirect_from:
 
 I'm a Ph.D Student (2022 Fall) in CSE of [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) supervised by Prof. [Hao CHEN](https://cse.hkust.edu.hk/~jhc/). Before that, I obtained the B.Eng and Msc. degree in CS, [SCUT](http://www.scut.edu.cn) in 2019 and 2022.
 
-<style>
+<link rel="stylesheet" type="text/css" href="stylesheet.css">
+  <style>
+
+  @media screen and (max-device-width: 520px){
+      body{
+        -webkit-text-size-adjust: none;
+      }
+    }
+    p { font-size : 16px; }
+    h1 { font-size : 34px; margin : 0; padding : 0; }
+    h2 { font-size : 20px; margin : 0; padding : 0; }
+    h3 { font-size : 18px; margin : 8; padding : 0; }
+    body { padding : 0; font-family : Arial; font-size : 16px; background-color : #fff; }
+    .title { width : 650px; margin : 20px auto; }
+    .container { width : 750px; margin : 20px auto; border-radius: 10px;  background-color : #fff; padding : 20px;  clear:both;}
+    #bio {
+        padding-top : 30px;
+    }
+    #me { border : 0 solid black; margin-bottom : 50px; border-radius : 10px; }
+    #sidebar { margin-left : 25px; border : 0 solid black; float : right; margin-bottom : 0;}
+    a { text-decoration : none; }
+    a:hover { text-decoration : underline; }
+    a, a:visited { color : #0050e7; }
+    .publogo { width: 100 px; margin-right : 20px; float : left; border : 0;}
+    .publication { clear : left; padding-bottom : 0px; }
+    .publication p { height : 100px; padding-top : 5px;}
+    .publication strong a { color : #0000A0; }
+    .publication .links { position : relative; top : 15px }
+    .publication .links a { margin-right : 20px; }
+    .codelogo { margin-right : 10px; float : left; border : 0;}
+    .code { clear : left; padding-bottom : 10px; vertical-align :middle;} 
+    .code .download a { display : block; margin : 0 15px; float : left;}
+    .code strong a { color : #000; }
+    .external a { margin : 0 10px; }
+    .external a.first { margin : 0 10px 0 0; }
+
 td, th {
    border: none!important;
 }
 </style>
+    
 News
 ======
 - [08/2022] I start Ph.D at [SMART](https://hkustsmartlab.netlify.app/)@HKUST on 2022 Fall.
