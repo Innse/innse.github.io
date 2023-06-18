@@ -67,7 +67,7 @@ Preprint
 <body>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;rules:none;"><tbody>
 
-          <tr onmouseout="flare_stop()" onmouseover="flare_start()">
+          <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
                 <div class="two" id="flare_image">
@@ -101,7 +101,7 @@ Preprint
           </tr> 
 
 
-          <tr onmouseout="flare_stop()" onmouseover="flare_start()">
+          <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
                 <div class="two" id="flare_image">
@@ -143,7 +143,7 @@ Preprint
 <body>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;rules:none;"><tbody>
 
-          <tr onmouseout="flare_stop()" onmouseover="flare_start()">
+          <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
                 <div class="two" id="flare_image">
@@ -182,7 +182,7 @@ Preprint
           </tr> 
 
 
-          <tr onmouseout="flare_stop()" onmouseover="flare_start()">
+          <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
                 <div class="two" id="flare_image">
@@ -222,7 +222,7 @@ Preprint
             </td>
           </tr> 
 	  
-	  <tr onmouseout="flare_stop()" onmouseover="flare_start()">
+	  <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
                 <div class="two" id="flare_image">
