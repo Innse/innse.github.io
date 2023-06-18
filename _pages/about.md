@@ -74,16 +74,7 @@ Preprint
             <td style="padding:20px;width:25%;vertical-align:middle">
               
                   <img src="images/motcat.png" width="195">
-              <script type="text/javascript">
-                function flare_start() {
-                  document.getElementById('flare_image').style.opacity = "1";
-                }
-
-                function flare_stop() {
-                  document.getElementById('flare_image').style.opacity = "0";
-                }
-                flare_stop()
-              </script>
+              
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;">
               <a href="https://arxiv.org/abs/2306.08330">
@@ -107,16 +98,6 @@ Preprint
               
                   <img src="images/deephot.png" width="180">
               
-              <script type="text/javascript">
-                function flare_start() {
-                  document.getElementById('flare_image').style.opacity = "1";
-                }
-
-                function flare_stop() {
-                  document.getElementById('flare_image').style.opacity = "0";
-                }
-                flare_stop()
-              </script>
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;">
               <a href="https://arxiv.org/abs/2211.11424">
@@ -147,16 +128,7 @@ Preprint
             <td style="padding:20px;width:25%;vertical-align:middle">
               
                   <img src="images/tcel.jpg" width="195">
-              <script type="text/javascript">
-                function flare_start() {
-                  document.getElementById('flare_image').style.opacity = "1";
-                }
-
-                function flare_stop() {
-                  document.getElementById('flare_image').style.opacity = "0";
-                }
-                flare_stop()
-              </script>
+              
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;">
               <a href="https://ieeexplore.ieee.org/document/9521752">
@@ -184,16 +156,7 @@ Preprint
             <td style="padding:20px;width:25%;vertical-align:middle">
               
                   <img src="images/graph.jpg" width="180">
-              <script type="text/javascript">
-                function flare_start() {
-                  document.getElementById('flare_image').style.opacity = "1";
-                }
-
-                function flare_stop() {
-                  document.getElementById('flare_image').style.opacity = "0";
-                }
-                flare_stop()
-              </script>
+              
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;">
               <a href="https://ieeexplore.ieee.org/abstract/document/9437712">
@@ -222,16 +185,7 @@ Preprint
             <td style="padding:20px;width:25%;vertical-align:middle">
               
                   <img src="images/apn.png" width="180">
-              <script type="text/javascript">
-                function flare_start() {
-                  document.getElementById('flare_image').style.opacity = "1";
-                }
-
-                function flare_stop() {
-                  document.getElementById('flare_image').style.opacity = "0";
-                }
-                flare_stop()
-              </script>
+              
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;">
               <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320320303617">
