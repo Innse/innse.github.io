@@ -20,6 +20,7 @@ td, th {
     
 News
 ======
+- [07/2023] One paper accepted by **ICCV 2023**!!
 - [08/2022] I start Ph.D at [SMART](https://hkustsmartlab.netlify.app/)@HKUST on 2022 Fall.
 - [06/2022] I received my master degree at SCUT.
 - [06/2021] I start internship at [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index) under the supervison of Dr. De Cai and [Xiao Han](https://www.linkedin.com/in/xiaohan2009).
@@ -85,7 +86,7 @@ Preprint
               <a href="https://cse.hkust.edu.hk/~jhc/">Hao Chen*</a>
               <br>
               <a href="https://arxiv.org/abs/2306.08330">[arXiv]</a>, 
-              <a href="https://github.com/Innse/MOTCat">[Code]</a>, 2023
+              <a href="https://github.com/Innse/MOTCat">[Code]</a>, 2023, accepted by <b>ICCV 2023</b>.
               <p></p>
               <p>
               </p>
@@ -141,8 +142,8 @@ Preprint
               Baochao Fan, 
               <a href="https://superhy.github.io/">Yang Hu</a>,
 	      Mingnan Luo, Changjun Wang
-              <br>
-							<em>IEEE Journal of Biomedical and Health Informatics</em>, 2021
+              <be>
+							<b><em>IEEE Journal of Biomedical and Health Informatics</em></b>, 2021
               <br>
               <a href="https://ieeexplore.ieee.org/document/9521752">[Paper]</a>
               <p></p>
@@ -172,8 +173,8 @@ Preprint
 	      <strong>Yingxue Xu</strong>,
        	      Dan Dai,
 	      <a href="https://wendy.ecs.soton.ac.uk/">Wendy Hall</a>,
-              <br>
-							<em>IEEE Transactions on Multimedia</em>, 2021
+              <be>
+							<b><em>IEEE Transactions on Multimedia</em></b>, 2021
               <br>
               <a href="https://ieeexplore.ieee.org/abstract/document/9437712">[Paper]</a>
               <p></p>
@@ -199,8 +200,8 @@ Preprint
        	      Dan Dai, 
 	      Yishan Zhuang, 
 	      <a href="https://wendy.ecs.soton.ac.uk/">Wendy Hall</a>,
-              <br>
-							<em>Pattern Recognition</em>, 2020
+              <be>
+							<b><em>Pattern Recognition</em></b>, 2020
               <br>
               <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320320303617">[Paper]</a>
               <p></p>
