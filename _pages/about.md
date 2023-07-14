@@ -86,7 +86,7 @@ Preprint
               <a href="https://cse.hkust.edu.hk/~jhc/">Hao Chen*</a>
               <br>
               <a href="https://arxiv.org/abs/2306.08330">[arXiv]</a>, 
-              <a href="https://github.com/Innse/MOTCat">[Code]</a>, 2023, accepted by <b>ICCV 2023</b>.
+              <a href="https://github.com/Innse/MOTCat">[Code]</a>, 2023, accepted by <strong>ICCV 2023</strong>.
               <p></p>
               <p>
               </p>
@@ -143,7 +143,7 @@ Preprint
               <a href="https://superhy.github.io/">Yang Hu</a>,
 	      Mingnan Luo, Changjun Wang
               <be>
-							<em><b>IEEE Journal of Biomedical and Health Informatics</b></em>, 2021
+							<em><strong>IEEE Journal of Biomedical and Health Informatics</strong></em>, 2021
               <br>
               <a href="https://ieeexplore.ieee.org/document/9521752">[Paper]</a>
               <p></p>
@@ -174,7 +174,7 @@ Preprint
        	      Dan Dai,
 	      <a href="https://wendy.ecs.soton.ac.uk/">Wendy Hall</a>,
               <be>
-							<em><b>IEEE Transactions on Multimedia</b></em>, 2021
+							<em><strong>IEEE Transactions on Multimedia</strong></em>, 2021
               <br>
               <a href="https://ieeexplore.ieee.org/abstract/document/9437712">[Paper]</a>
               <p></p>
@@ -201,7 +201,7 @@ Preprint
 	      Yishan Zhuang, 
 	      <a href="https://wendy.ecs.soton.ac.uk/">Wendy Hall</a>,
               <be>
-							<em><b>Pattern Recognition</b></em>, 2020
+							<em><strong>Pattern Recognition</strong></em>, 2020
               <br>
               <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320320303617">[Paper]</a>
               <p></p>
