@@ -86,7 +86,7 @@ Preprint
               <a href="https://cse.hkust.edu.hk/~jhc/">Hao Chen*</a>
               <br>
               <a href="https://arxiv.org/abs/2306.08330">[arXiv]</a>, 
-              <a href="https://github.com/Innse/MOTCat">[Code]</a>, 2023, accepted by <strong>ICCV 2023</strong>.
+              <a href="https://github.com/Innse/MOTCat">[Code]</a>, 2023, accepted by ICCV 2023.
               <p></p>
               <p>
               </p>
