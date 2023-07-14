@@ -142,7 +142,7 @@ Preprint
               Baochao Fan, 
               <a href="https://superhy.github.io/">Yang Hu</a>,
 	      Mingnan Luo, Changjun Wang
-              <be>
+              <br>
 							<em><strong>IEEE Journal of Biomedical and Health Informatics</strong></em>, 2021
               <br>
               <a href="https://ieeexplore.ieee.org/document/9521752">[Paper]</a>
