@@ -143,7 +143,7 @@ Preprint
               <a href="https://superhy.github.io/">Yang Hu</a>,
 	      Mingnan Luo, Changjun Wang
               <be>
-							<strong>IEEE Journal of Biomedical and Health Informatics</strong>, 2021
+							<em>IEEE Journal of Biomedical and Health Informatics</em>, 2021
               <br>
               <a href="https://ieeexplore.ieee.org/document/9521752">[Paper]</a>
               <p></p>
@@ -174,7 +174,7 @@ Preprint
        	      Dan Dai,
 	      <a href="https://wendy.ecs.soton.ac.uk/">Wendy Hall</a>,
               <be>
-							<strong>IEEE Transactions on Multimedia</strong>, 2021
+							<em>IEEE Transactions on Multimedia</em>, 2021
               <br>
               <a href="https://ieeexplore.ieee.org/abstract/document/9437712">[Paper]</a>
               <p></p>
@@ -201,7 +201,7 @@ Preprint
 	      Yishan Zhuang, 
 	      <a href="https://wendy.ecs.soton.ac.uk/">Wendy Hall</a>,
               <be>
-							<strong>Pattern Recognition</strong>, 2020
+							<em>Pattern Recognition</em>, 2020
               <br>
               <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320320303617">[Paper]</a>
               <p></p>
