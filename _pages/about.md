@@ -221,6 +221,8 @@ Teaching
 <tbody><tr>
     <td><b>2023 Spring</b> &nbsp;&nbsp;&nbsp;</td>
     <td>COMP2011 - Programming with C++</td>
+</tr>
+<tr>
     <td><b>2023 Fall</b> &nbsp;&nbsp;&nbsp;</td>
     <td>COMP1021 - Introduction to Computer Science</td>
 </tr>
