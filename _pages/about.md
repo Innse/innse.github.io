@@ -69,29 +69,7 @@ Multimodal Learning (e.g. Fusion, Missing Modality, Prompting and Foundation Mod
 Preprint
 ======
 <body>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;rules:none;"><tbody>
-
-          <tr>
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              
-                  <img src="images/motcat.png" width="195">
-              
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle;">
-              <a href="https://arxiv.org/abs/2306.08330">
-                <papertitle><font size="3">Multimodal Optimal Transport-based Co-Attention Transformer with Global Structure Consistency for Survival Prediction</font></papertitle>
-              </a>
-              <br>
-              <strong>Yingxue Xu</strong>,
-              <a href="https://cse.hkust.edu.hk/~jhc/">Hao Chen*</a>
-              <br>
-              <a href="https://arxiv.org/abs/2306.08330">[arXiv]</a>, 
-              <a href="https://github.com/Innse/MOTCat">[Code]</a>, 2023, accepted by <strong>ICCV 2023</strong>.
-              <p></p>
-              <p>
-              </p>
-            </td>
-          </tr> 
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;rules:none;"><tbody> 
 
 
           <tr>
@@ -124,7 +102,27 @@ Preprint
 <h1 id="publication"> Publications</h1>
 <body>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;rules:none;"><tbody>
-
+	  <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              
+                  <img src="images/motcat.png" width="195">
+              
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="https://arxiv.org/abs/2306.08330">
+                <papertitle><font size="3">Multimodal Optimal Transport-based Co-Attention Transformer with Global Structure Consistency for Survival Prediction</font></papertitle>
+              </a>
+              <br>
+              <strong>Yingxue Xu</strong>,
+              <a href="https://cse.hkust.edu.hk/~jhc/">Hao Chen*</a>
+              <br>
+              <a href="https://arxiv.org/abs/2306.08330">[arXiv]</a>, 
+              <a href="https://github.com/Innse/MOTCat">[Code]</a>, <strong>ICCV</strong>, 2023.
+              <p></p>
+              <p>
+              </p>
+            </td>
+          </tr>
           <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               
