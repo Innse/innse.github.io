@@ -150,7 +150,7 @@ Preprint
             </td>
           </tr> 
 
-
+<!--
           <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               
@@ -179,7 +179,7 @@ Preprint
               
             </td>
           </tr> 
-	  
+-->
 	  <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               
