@@ -218,10 +218,12 @@ Teaching
 <table style="border: none;rules:none;cellspacing:0;font-size:16px;">
 <tbody><tr>
     <td><b>2023 Spring</b></td>
+    <td>TA</td>
     <td>COMP2011 - Programming with C++</td>
 </tr>
 <tr>
     <td><b>2023 Fall</b></td>
+    <td>TA</td>
     <td>COMP1021 - Introduction to Computer Science</td>
 </tr>
 </tbody></table>
