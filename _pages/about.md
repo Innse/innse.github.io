@@ -88,7 +88,7 @@ Preprint
               <a href="https://superhy.github.io/">Yang Hu</a>,
               <a href="https://scholar.google.com/citations?hl=en&user=97CfnB0AAAAJ&view_op=list_works">Pei Yang*</a>
               <br>
-              <a href="https://arxiv.org/abs/2211.11424">[arxiv]</a>, 2022
+              <a href="https://arxiv.org/abs/2211.11424">[Arxiv]</a>, 2022
               <p></p>
               
             </td>
@@ -109,14 +109,15 @@ Preprint
               
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;">
-              <a href="https://arxiv.org/abs/2306.08330">
+              <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Xu_Multimodal_Optimal_Transport-based_Co-Attention_Transformer_with_Global_Structure_Consistency_for_ICCV_2023_paper.html">
                 <papertitle><font size="3">Multimodal Optimal Transport-based Co-Attention Transformer with Global Structure Consistency for Survival Prediction</font></papertitle>
               </a>
               <br>
               <strong>Yingxue Xu</strong>,
               <a href="https://cse.hkust.edu.hk/~jhc/">Hao Chen*</a>
-              <br>
-              <a href="https://arxiv.org/abs/2306.08330">[arXiv]</a>, 
+              <be>
+	      <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Xu_Multimodal_Optimal_Transport-based_Co-Attention_Transformer_with_Global_Structure_Consistency_for_ICCV_2023_paper.html">[Paper]</a>, 
+              <a href="https://arxiv.org/abs/2306.08330">[ArXiv]</a>, 
               <a href="https://github.com/Innse/MOTCat">[Code]</a>, <em><strong>ICCV</strong></em>, 2023.
               <p></p>
               <p>
