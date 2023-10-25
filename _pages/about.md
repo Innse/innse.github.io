@@ -116,9 +116,11 @@ Preprint
               <strong>Yingxue Xu</strong>,
               <a href="https://cse.hkust.edu.hk/~jhc/">Hao Chen*</a>
               <br>
+	      <em><strong>ICCV</strong></em>, 2023
+	      <br>
 	      <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Xu_Multimodal_Optimal_Transport-based_Co-Attention_Transformer_with_Global_Structure_Consistency_for_ICCV_2023_paper.html">[Paper]</a>, 
               <a href="https://arxiv.org/abs/2306.08330">[ArXiv]</a>, 
-              <a href="https://github.com/Innse/MOTCat">[Code]</a>, <em><strong>ICCV</strong></em>, 2023.
+              <a href="https://github.com/Innse/MOTCat">[Code]</a>.
               <p></p>
               <p>
               </p>
