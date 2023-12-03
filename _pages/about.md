@@ -21,7 +21,7 @@ td, th {
 News
 ======
 - [07/2023] One paper accepted by **ICCV 2023**!!
-- [08/2022] I start Ph.D at [SMART](https://hkustsmartlab.netlify.app/)@HKUST on 2022 Fall.
+- [08/2022] I start Ph.D at [SMARTLab](https://hkustsmartlab.netlify.app/)@HKUST on 2022 Fall.
 - [06/2022] I received my master degree at SCUT.
 - [06/2021] I start internship at [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index) under the supervison of Dr. De Cai and [Xiao Han](https://www.linkedin.com/in/xiaohan2009).
 - [12/2020] I'm honored with National Scholarship.
@@ -218,6 +218,7 @@ Preprint
 
 Teaching
 ======
+### Course
 <table style="border: none;rules:none;cellspacing:0;font-size:16px;">
 <tbody><tr>
     <td><b>2023 Spring</b></td>
@@ -231,3 +232,8 @@ Teaching
 </tr>
 </tbody></table>
 
+### Advised Mentee
+- [Yilan Zhang](https://zylbuaa.github.io/) (05/2023 - present, M.S. in Beihang University)
+- Yihui Wang (06/2023 - present, Ph.D in HKUST)
+- Chenyu Zhao (08/2023 - present, MPhil in HKUST)
+- KWOK Sze Heng Douglas (01/2023 - 08, UG in HKUST)
