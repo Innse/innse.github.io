@@ -236,4 +236,4 @@ Teaching
 - [Yilan Zhang](https://zylbuaa.github.io/) (05/2023 - present, M.S. in Beihang University)
 - Yihui Wang (06/2023 - present, Ph.D in HKUST)
 - Chenyu Zhao (08/2023 - present, MPhil in HKUST)
-- KWOK Sze Heng Douglas (01/2023 - 08, UG in HKUST)
+- KWOK Sze Heng Douglas (01/2023 - 08/2023, UG in HKUST)
