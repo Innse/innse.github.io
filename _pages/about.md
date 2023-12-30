@@ -26,7 +26,7 @@ News
 - [06/2021] I start internship at [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index) under the supervison of Dr. De Cai and [Xiao Han](https://www.linkedin.com/in/xiaohan2009).
 - [12/2020] I'm honored with National Scholarship.
 
-<h1 id="education_experience"> Education & Experience</h1>
+<h1 id="education"> Education</h1>
 <table style="border: none;rules:none;cellspacing:0;font-size:16px;">
 <tbody><tr>
     <td><b>08/2022 - present</b> &nbsp;&nbsp;&nbsp;</td>
@@ -35,14 +35,6 @@ News
 <tr>
     <td></td>
     <td><font color="grey">PhD in Computer Science and Engineering</font></td>
-</tr>
-<tr>
-    <td><b>06/2021 - 09/2021</b> &nbsp;&nbsp;&nbsp;</td>
-    <td><b>Tencent AI Lab</b>, Shenzhen, China</td>
-</tr>
-<tr>
-    <td></td>
-    <td><font color="grey">Intern researcher on Computer Vision, Computational Cervical Cytology</font></td>
 </tr>
 <tr>
     <td><b>09/2019 - 06/2022</b> &nbsp;&nbsp;&nbsp;</td>
@@ -59,6 +51,19 @@ News
 <tr>
     <td></td>
     <td><font color="grey">Bachelor in Computer Science and Technology</font></td>
+</tr>
+</tbody></table>
+
+<h1 id="experience"> Experience</h1>
+<table style="border: none;rules:none;cellspacing:0;font-size:16px;">
+<tbody>
+<tr>
+    <td><b>06/2021 - 09/2021</b> &nbsp;&nbsp;&nbsp;</td>
+    <td><b>Tencent AI Lab</b>, Shenzhen, China</td>
+</tr>
+<tr>
+    <td></td>
+    <td><font color="grey">Intern researcher on Computer Vision, Computational Cervical Cytology</font></td>
 </tr>
 </tbody></table>
 
