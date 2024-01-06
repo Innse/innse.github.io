@@ -98,8 +98,27 @@ Preprint
               
             </td>
           </tr> 
-
-
+	  <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              
+                  <img src="images/pibd-fig1.png" width="180">
+              
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="https://arxiv.org/abs/2401.01646">
+                <papertitle><font size="3">Prototypical Information Bottlenecking and Disentangling for Multimodal Cancer Survival Prediction</font></papertitle>
+              </a>
+              <br>
+	      Yilan Zhang^\dagger, 
+              <strong>Yingxue Xu^\dagger (Co-first author)</strong>,
+              Guihua Wen,
+              Jianqi Chen, Fengying Xie, Hao Chen*
+              <br>
+              <a href="https://arxiv.org/abs/2401.01646">[Arxiv]</a>, 2024
+              <p></p>
+              
+            </td>
+          </tr>
           
          </tbody></table>
 </body>
