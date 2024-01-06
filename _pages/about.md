@@ -114,7 +114,6 @@ Preprint
               <br>
 	      Yilan Zhang^, 
               <strong>Yingxue Xu^ (Co-first author)</strong>,
-              Guihua Wen,
               Jianqi Chen, Fengying Xie, Hao Chen*
               <br>
               <a href="https://arxiv.org/abs/2401.01646">[Arxiv]</a>, 2024
