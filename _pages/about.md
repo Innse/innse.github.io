@@ -71,6 +71,9 @@ Research Interests
 ======
 Multimodal Learning (e.g. Fusion, Missing Modality, Prompting and Foundation Model Pretraining), Survival Analysis, Optimal Transport and Domain Adaptation/Generalization
 
+---
+(^: Equally Contributed, *: Corresponding Authors)
+
 Preprint
 ======
 <body>
@@ -109,8 +112,8 @@ Preprint
                 <papertitle><font size="3">Prototypical Information Bottlenecking and Disentangling for Multimodal Cancer Survival Prediction</font></papertitle>
               </a>
               <br>
-	      Yilan Zhang^\dagger, 
-              <strong>Yingxue Xu^\dagger (Co-first author)</strong>,
+	      Yilan Zhang^, 
+              <strong>Yingxue Xu^ (Co-first author)</strong>,
               Guihua Wen,
               Jianqi Chen, Fengying Xie, Hao Chen*
               <br>
