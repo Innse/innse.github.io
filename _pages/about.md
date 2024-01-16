@@ -20,7 +20,8 @@ td, th {
     
 News
 ======
-- [07/2023] One paper accepted by **ICCV 2023**!!
+- [01/2024] One paper was accepted by **ICLR 2024** as **Spotlight** paper!!
+- [07/2023] One paper was accepted by **ICCV 2023**!!
 - [08/2022] I start Ph.D at [SMARTLab](https://hkustsmartlab.netlify.app/)@HKUST on 2022 Fall.
 - [06/2022] I received my master degree at SCUT.
 - [06/2021] I start internship at [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index) under the supervison of Dr. De Cai and [Xiao Han](https://www.linkedin.com/in/xiaohan2009).
@@ -101,7 +102,15 @@ Preprint
               
             </td>
           </tr> 
-	  <tr>
+	  
+          
+         </tbody></table>
+</body>
+
+<h1 id="publication"> Publications</h1>
+<body>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;rules:none;"><tbody>
+	<tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               
                   <img src="images/pibd-fig1.png" width="180">
@@ -116,19 +125,14 @@ Preprint
               <strong>Yingxue Xu^ (Co-first author)</strong>,
               Jianqi Chen, Fengying Xie, Hao Chen*
               <br>
+	      <em><strong>ICLR</strong></em><font color="red"> <strong> (Spotlight)</strong></font>, 2024
+	      <br>
               <a href="https://arxiv.org/abs/2401.01646">[Arxiv]</a>, 2024
               <p></p>
               
             </td>
-          </tr>
-          
-         </tbody></table>
-</body>
-
-<h1 id="publication"> Publications</h1>
-<body>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;rules:none;"><tbody>
-	  <tr>
+          </tr>  
+	<tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               
                   <img src="images/motcat.png" width="195">
