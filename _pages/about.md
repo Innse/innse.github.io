@@ -127,7 +127,7 @@ Preprint
               <br>
 	      <em><strong>ICLR</strong></em><font color="red"> <strong> (Spotlight)</strong></font>, 2024
 	      <br>
-              <a href="https://arxiv.org/abs/2401.01646">[Arxiv]</a>, 2024
+              <a href="https://arxiv.org/abs/2401.01646">[Arxiv]</a>
               <p></p>
               
             </td>
