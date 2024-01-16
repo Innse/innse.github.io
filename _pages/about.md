@@ -125,7 +125,7 @@ Preprint
               <strong>Yingxue Xu^ (Co-first author)</strong>,
               Jianqi Chen, Fengying Xie, Hao Chen*
               <br>
-	      <em><strong>ICLR</strong></em><font color="red"> <strong> (Spotlight)</strong></font>, 2024
+	      <em><strong>ICLR</strong></em><font color="red"> <strong> (Spotlight, top-5%)</strong></font>, 2024
 	      <br>
               <a href="https://arxiv.org/abs/2401.01646">[Arxiv]</a>
               <p></p>
