@@ -102,7 +102,24 @@ Preprint
               
             </td>
           </tr> 
-	  
+	  <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              
+                  <img src="images/imd4gc.png" width="180">
+              
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="https://arxiv.org/abs/2211.11424">
+                <papertitle><font size="3">iMD4GC: Incomplete Multimodal Data Integration to Advance Precise Treatment Response Prediction and Survival Analysis for Gastric Cancer</font></papertitle>
+              </a>
+              <br>
+              Fengtao Zhou, <strong>Yingxue Xu</strong>, Yanfen Cui, Shenyan Zhang, Yun Zhu, Weiyang He, Jiguang Wang, Xin Wang, Ronald Chan, Louis Ho Shing Lau, Chu Han, Dafu Zhang, Zhenhui Li, Hao Chen
+              <br>
+              <a href="https://arxiv.org/abs/2404.01192">[Arxiv]</a>, 2024
+              <p></p>
+              
+            </td>
+          </tr> 
           
          </tbody></table>
 </body>
