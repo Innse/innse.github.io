@@ -107,7 +107,7 @@ Preprint
          </tbody></table>
 </body>
 
-<h1 id="publication">Selected Publications</h1> <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=XY6NCLMAAAAJ">[Full list]</a>
+<h1 id="publication">Selected Publications <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=XY6NCLMAAAAJ">[Full list]</a></h1>
 <body>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;rules:none;"><tbody>
 	<tr>
