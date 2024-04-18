@@ -97,7 +97,7 @@ Preprint
               <a href="https://superhy.github.io/">Yang Hu</a>,
               <a href="https://scholar.google.com/citations?hl=en&user=97CfnB0AAAAJ&view_op=list_works">Pei Yang*</a>
               <br>
-              <a href="https://arxiv.org/abs/2211.11424">[Arxiv]</a>, under Major Revision, 2022
+              <a href="https://arxiv.org/abs/2211.11424">[Arxiv]</a>, under Minor Revision, 2022
               <p></p>
               
             </td>
