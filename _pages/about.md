@@ -20,6 +20,7 @@ td, th {
     
 News
 ======
+- [04/2024] One paper was accepted by **TCSVT**.
 - [01/2024] One paper was accepted by **ICLR 2024** as **Spotlight** paper!!
 - [07/2023] One paper was accepted by **ICCV 2023**!!
 - [08/2022] I start Ph.D at [SMARTLab](https://hkustsmartlab.netlify.app/)@HKUST on 2022 Fall.
@@ -81,27 +82,7 @@ Preprint
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;rules:none;"><tbody> 
 
 
-          <tr>
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              
-                  <img src="images/deephot.png" width="180">
-              
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle;">
-              <a href="https://arxiv.org/abs/2211.11424">
-                <papertitle><font size="3">Unsupervised Domain Adaptation via Deep Hierarchical Optimal Transport</font></papertitle>
-              </a>
-              <br>
-              <strong>Yingxue Xu</strong>,
-              Guihua Wen,
-              <a href="https://superhy.github.io/">Yang Hu</a>,
-              <a href="https://scholar.google.com/citations?hl=en&user=97CfnB0AAAAJ&view_op=list_works">Pei Yang*</a>
-              <br>
-              <a href="https://arxiv.org/abs/2211.11424">[Arxiv]</a>, under Minor Revision, 2022
-              <p></p>
-              
-            </td>
-          </tr> 
+          
 	  <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               
@@ -204,6 +185,29 @@ Preprint
 
 <!--
           <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              
+                  <img src="images/deephot.png" width="180">
+              
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="https://arxiv.org/abs/2211.11424">
+                <papertitle><font size="3">Modeling Hierarchical Structural Distance for Unsupervised Domain Adaptation</font></papertitle>
+              </a>
+              <br>
+              <strong>Yingxue Xu</strong>,
+              Guihua Wen,
+              <a href="https://superhy.github.io/">Yang Hu</a>,
+              <a href="https://scholar.google.com/citations?hl=en&user=97CfnB0AAAAJ&view_op=list_works">Pei Yang*</a>
+               
+	      <br> <em><strong>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</strong></em>, 2024
+       	      <br>
+	      <a href="https://arxiv.org/abs/2211.11424">[Arxiv]</a>
+              <p></p>
+              
+            </td>
+          </tr>
+	  <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               
                   <img src="images/graph.jpg" width="180">
