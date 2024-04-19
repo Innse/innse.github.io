@@ -184,29 +184,7 @@ Preprint
           </tr> 
 
 <!--
-          <tr>
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              
-                  <img src="images/deephot.png" width="180">
-              
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle;">
-              <a href="https://arxiv.org/abs/2211.11424">
-                <papertitle><font size="3">Modeling Hierarchical Structural Distance for Unsupervised Domain Adaptation</font></papertitle>
-              </a>
-              <br>
-              <strong>Yingxue Xu</strong>,
-              Guihua Wen,
-              <a href="https://superhy.github.io/">Yang Hu</a>,
-              <a href="https://scholar.google.com/citations?hl=en&user=97CfnB0AAAAJ&view_op=list_works">Pei Yang*</a>
-               
-	      <br> <em><strong>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</strong></em>, 2024
-       	      <br>
-	      <a href="https://arxiv.org/abs/2211.11424">[Arxiv]</a>
-              <p></p>
-              
-            </td>
-          </tr>
+          
 	  <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               
@@ -236,6 +214,29 @@ Preprint
             </td>
           </tr> 
 -->
+	 <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              
+                  <img src="images/deephot.png" width="180">
+              
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="https://arxiv.org/abs/2211.11424">
+                <papertitle><font size="3">Modeling Hierarchical Structural Distance for Unsupervised Domain Adaptation</font></papertitle>
+              </a>
+              <br>
+              <strong>Yingxue Xu</strong>,
+              Guihua Wen,
+              <a href="https://superhy.github.io/">Yang Hu</a>,
+              <a href="https://scholar.google.com/citations?hl=en&user=97CfnB0AAAAJ&view_op=list_works">Pei Yang*</a>
+               
+	      <br> <em><strong>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</strong></em>, 2024
+       	      <br>
+	      <a href="https://arxiv.org/abs/2211.11424">[Arxiv]</a>
+              <p></p>
+              
+            </td>
+          </tr>
 	  <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               
