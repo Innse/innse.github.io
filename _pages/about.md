@@ -163,7 +163,7 @@ Preprint
               
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;">
-              <a href="https://arxiv.org/abs/2211.11424">
+              <a href="https://ieeexplore.ieee.org/document/10506687">
                 <papertitle><font size="3">Modeling Hierarchical Structural Distance for Unsupervised Domain Adaptation</font></papertitle>
               </a>
               <br>
@@ -174,7 +174,7 @@ Preprint
                
 	      <br> <em><strong>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</strong></em>, 2024
        	      <br>
-	      <a href="https://arxiv.org/abs/2211.11424">[Arxiv]</a>
+	      <a href="https://ieeexplore.ieee.org/document/10506687">[Paper]</a>, <a href="https://arxiv.org/abs/2211.11424">[Arxiv]</a>
               <p></p>
               
             </td>
