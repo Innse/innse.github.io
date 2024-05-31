@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D Student (2022 Fall) in CSE of [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) supervised by Prof. [Hao CHEN](https://cse.hkust.edu.hk/~jhc/). Before that, I obtained the B.Eng and Msc. degree in CS, [SCUT](http://www.scut.edu.cn) in 2019 and 2022.
+I'm a Ph.D Student (2022 Fall) at [SMARTLab](https://hkustsmartlab.github.io/) in CSE of [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) supervised by Prof. [Hao CHEN](https://cse.hkust.edu.hk/~jhc/). Before that, I obtained the B.Eng and Msc. degree in CS, [SCUT](http://www.scut.edu.cn) in 2019 and 2022.
 
 
 <style>
@@ -23,7 +23,7 @@ News
 - [04/2024] One paper was accepted by **TCSVT**.
 - [01/2024] One paper was accepted by **ICLR 2024** as **Spotlight** paper!!
 - [07/2023] One paper was accepted by **ICCV 2023**!!
-- [08/2022] I start Ph.D at [SMARTLab](https://hkustsmartlab.netlify.app/)@HKUST on 2022 Fall.
+- [08/2022] I start Ph.D at [SMARTLab](https://hkustsmartlab.github.io/)@HKUST on 2022 Fall.
 - [06/2022] I received my master degree at SCUT.
 - [06/2021] I start internship at [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index) under the supervison of Dr. De Cai and [Xiao Han](https://www.linkedin.com/in/xiaohan2009).
 - [12/2020] I'm honored with National Scholarship.
