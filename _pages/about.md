@@ -20,6 +20,7 @@ td, th {
     
 News
 ======
+- [06/2024] One paper (co-author) was accepted by **MICCAI 2024**.
 - [04/2024] One paper was accepted by **TCSVT**.
 - [01/2024] One paper was accepted by **ICLR 2024** as **Spotlight** paper!!
 - [07/2023] One paper was accepted by **ICCV 2023**!!
@@ -71,7 +72,7 @@ News
 
 Research Interests
 ======
-Multimodal Learning (e.g. Fusion, Missing Modality, Prompting and Foundation Model Pretraining), Survival Analysis, Optimal Transport and Domain Adaptation/Generalization
+Multimodal Learning (e.g. Fusion, Missing Modality, Pretraining), Computational Pathology, Survival Analysis, Optimal Transport and Domain Adaptation/Generalization
 
 ---
 (^: Equally Contributed, *: Corresponding Authors)
@@ -108,6 +109,27 @@ Preprint
 <h1 id="publication">Selected Publications <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=XY6NCLMAAAAJ">[Full List]</a></h1>
 <body>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;rules:none;"><tbody>
+	<tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              
+                  <img src="images/histgen.png" width="180">
+              
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="https://arxiv.org/abs/2403.05396">
+                <papertitle><font size="3">HistGen: Histopathology Report Generation via Local-Global Feature Encoding and Cross-modal Context Interaction</font></papertitle>
+              </a>
+              <br>
+	      Zhengrui Guo, Jiabo Ma, <strong>Yingxue Xu)</strong>, Yihui Wang, Liansheng Wang, Hao Chen*
+              <br>
+	      <em><strong>MICCAI</strong></em>, 2024
+	      <br>
+	      <a href="https://arxiv.org/abs/2403.05396">[Arxiv]</a>,
+	      <a href="https://github.com/dddavid4real/HistGen">[Code]</a>.
+              <p></p>
+              
+            </td>
+          </tr>
 	<tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               
