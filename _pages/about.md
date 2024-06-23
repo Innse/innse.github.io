@@ -120,7 +120,7 @@ Preprint
                 <papertitle><font size="3">HistGen: Histopathology Report Generation via Local-Global Feature Encoding and Cross-modal Context Interaction</font></papertitle>
               </a>
               <br>
-	      Zhengrui Guo, Jiabo Ma, <strong>Yingxue Xu)</strong>, Yihui Wang, Liansheng Wang, Hao Chen*
+	      Zhengrui Guo, Jiabo Ma, <strong>Yingxue Xu</strong>, Yihui Wang, Liansheng Wang, Hao Chen*
               <br>
 	      <em><strong>MICCAI</strong></em>, 2024
 	      <br>
