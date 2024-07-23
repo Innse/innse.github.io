@@ -85,6 +85,25 @@ Preprint
 
 
           
+	  
+	  <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              
+                  <img src="images/mstar.png" width="180">
+              
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="https://arxiv.org/abs/2407.15362">
+                <papertitle><font size="3">A Multimodal Knowledge-enhanced Whole-slide Pathology Foundation Model</font></papertitle>
+              </a>
+              <br>
+	       <strong>Yingxue Xu^</strong>, Yihui Wang^, Fengtao Zhou, Jiabo Ma, Shu Yang, Huangjing Lin, Xin Wang, Jiguang Wang, Li Liang, Anjia Han, Ronald Cheong Kin Chan, Hao Chen*
+              <br>
+              <a href="https://arxiv.org/abs/2407.15362">[Arxiv]</a>, 2024
+              <p></p>
+              
+            </td>
+          </tr>
 	  <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               
@@ -103,24 +122,6 @@ Preprint
               
             </td>
           </tr>
-	  <tr>
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              
-                  <img src="images/mstar.png" width="180">
-              
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle;">
-              <a href="https://arxiv.org/abs/2407.15362">
-                <papertitle><font size="3">A Multimodal Knowledge-enhanced Whole-slide Pathology Foundation Model</font></papertitle>
-              </a>
-              <br>
-	       <strong>Yingxue Xu^</strong>, Yihui Wang^, Fengtao Zhou, Jiabo Ma, Shu Yang, Huangjing Lin, Xin Wang, Jiguang Wang, Li Liang, Anjia Han, Ronald Cheong Kin Chan, Hao Chen*
-              <br>
-              <a href="https://arxiv.org/abs/2407.15362">[Arxiv]</a>, 2024
-              <p></p>
-              
-            </td>
-          </tr> 
           
          </tbody></table>
 </body>
