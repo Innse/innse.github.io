@@ -20,6 +20,7 @@ td, th {
     
 News
 ======
+- [07/2024] Thrilled to announce our latest work **mSTAR**, a multimodal-enhanced whole slide pathology foundation model.
 - [06/2024] One paper (co-author) was accepted by **MICCAI 2024**.
 - [04/2024] One paper was accepted by **TCSVT**.
 - [01/2024] One paper was accepted by **ICLR 2024** as **Spotlight** paper!!
@@ -91,13 +92,31 @@ Preprint
               
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;">
-              <a href="https://arxiv.org/abs/2211.11424">
+              <a href="https://arxiv.org/abs/2404.01192">
                 <papertitle><font size="3">iMD4GC: Incomplete Multimodal Data Integration to Advance Precise Treatment Response Prediction and Survival Analysis for Gastric Cancer</font></papertitle>
               </a>
               <br>
               Fengtao Zhou, <strong>Yingxue Xu</strong>, Yanfen Cui, Shenyan Zhang, Yun Zhu, Weiyang He, Jiguang Wang, Xin Wang, Ronald Chan, Louis Ho Shing Lau, Chu Han, Dafu Zhang, Zhenhui Li, Hao Chen*
               <br>
               <a href="https://arxiv.org/abs/2404.01192">[Arxiv]</a>, 2024
+              <p></p>
+              
+            </td>
+          </tr>
+	  <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              
+                  <img src="images/mstar.png" width="180">
+              
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="https://arxiv.org/abs/2407.15362">
+                <papertitle><font size="3">A Multimodal Knowledge-enhanced Whole-slide Pathology Foundation Model</font></papertitle>
+              </a>
+              <br>
+	       <strong>Yingxue Xu^</strong>, Yihui Wang^, Fengtao Zhou, Jiabo Ma, Shu Yang, Huangjing Lin, Xin Wang, Jiguang Wang, Li Liang, Anjia Han, Ronald Cheong Kin Chan, Hao Chen*
+              <br>
+              <a href="https://arxiv.org/abs/2407.15362">[Arxiv]</a>, 2024
               <p></p>
               
             </td>
