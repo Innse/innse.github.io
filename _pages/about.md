@@ -107,6 +107,24 @@ Preprint
 	  <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               
+                  <img src="images/gpfm.png" width="180">
+              
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="https://arxiv.org/abs/2407.18449">
+                <papertitle><font size="3">Towards A Generalizable Pathology Foundation Model via Unified Knowledge Distillation</font></papertitle>
+              </a>
+              <br>
+	       Jiabo Ma^, Zhengrui Guo^, Fengtao Zhou, Yihui Wang, <strong>Yingxue Xu</strong>, Yu Cai, Zhengjie Zhu, Cheng Jin, Yi Lin, Xinrui Jiang, Anjia Han, Li Liang, Ronald Cheong Kin Chan, Jiguang Wang, Kwang-Ting Cheng, Hao Chen*
+              <br>
+              <a href="https://arxiv.org/abs/2407.18449">[Arxiv]</a>, 2024
+              <p></p>
+              
+            </td>
+          </tr>
+	  <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              
                   <img src="images/imd4gc.png" width="180">
               
             </td>
