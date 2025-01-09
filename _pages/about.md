@@ -20,6 +20,7 @@ td, th {
     
 News
 ======
+- [01/2025] One paper (co-author) was accepted by **IEEE Transactions on Medical Imaging (TMI)**.
 - [07/2024] Thrilled to announce our latest work **mSTAR**, a multimodal-enhanced whole slide pathology foundation model.
 - [06/2024] One paper (co-author) was accepted by **MICCAI 2024**.
 - [04/2024] One paper was accepted by **TCSVT**.
@@ -150,6 +151,27 @@ Preprint
 	<tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               
+                  <img src="images/G-HANet.png" width="180">
+              
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="https://ieeexplore.ieee.org/document/10830530">
+                <papertitle><font size="3">Histo-Genomic Knowledge Association For Cancer Prognosis From Histopathology Whole Slide Images</font></papertitle>
+              </a>
+              <br>
+	      Zhikang Wang, Yumeng Zhang,<strong>Yingxue Xu</strong>, Seiya Imoto, Hao Chen, Jiangning Song
+              <br>
+	      <em><strong>IEEE Transactions on Medical Imaging (TMI)</strong></em>, 2025
+	      <br>
+	      <a href="https://ieeexplore.ieee.org/document/10830530">[Paper]</a>,
+	      <a href="https://github.com/ZacharyWang-007/G-HANet">[Code]</a>.
+              <p></p>
+              
+            </td>
+          </tr>
+<tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              
                   <img src="images/histgen.png" width="180">
               
             </td>
@@ -167,8 +189,8 @@ Preprint
               <p></p>
               
             </td>
-          </tr>
-	<tr>
+          </tr>	
+ <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               
                   <img src="images/pibd-fig1.png" width="180">
