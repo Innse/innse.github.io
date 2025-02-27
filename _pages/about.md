@@ -20,6 +20,7 @@ td, th {
     
 News
 ======
+- [02/2025] One paper was accepted by **CVPR 2025**.
 - [01/2025] One paper (co-author) was accepted by **IEEE Transactions on Medical Imaging (TMI)**.
 - [07/2024] Thrilled to announce our latest work **mSTAR**, a multimodal-enhanced whole slide pathology foundation model.
 - [06/2024] One paper (co-author) was accepted by **MICCAI 2024**.
