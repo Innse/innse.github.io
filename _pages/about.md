@@ -376,8 +376,7 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
 </body>
 
 <h2>Academic Services</h2>
-<b>Regular Reviewers:</b>
-<ul>
+<strong>Regular Reviewers:</strong>
 	<li>	
 	<b>Conference</b><br>
 	International Conference on Computer Vision (ICCV'25)<br>
@@ -398,10 +397,7 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
 	Medical Image Analysis (MedIA)<br>
 	Pattern Recognition (PR)<br>
  	Computerized Medical Imaging and Graphics (CMIG)<br>
-	
-
 	</li>
-</ul>
 
 <h2>Teaching</h2>
 ### Course
