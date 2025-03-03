@@ -379,23 +379,23 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
 <strong>Regular Reviewers:</strong>
 
 ### Conference
-	International Conference on Computer Vision (ICCV'25)<br>
-	International Conference on Machine Learning (ICML'25)<br>
-	Computer Vision and Pattern Recognition (CVPR'25)<br>
-	International Conference on Artificial Intelligence and Statistics (AISTATS'25)<br>
-	International Conference on Learning Representations (ICLR'25)<br>
-	Neural Information Processing Systems (NeurIPS'24)<br>
-	ACM Multimedia (MM'24,25)<br>
-	International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI'25)<br>
+- International Conference on Computer Vision (ICCV'25)
+- International Conference on Machine Learning (ICML'25)
+- Computer Vision and Pattern Recognition (CVPR'25)
+- International Conference on Artificial Intelligence and Statistics (AISTATS'25)
+- International Conference on Learning Representations (ICLR'25)
+- Neural Information Processing Systems (NeurIPS'24)
+- ACM Multimedia (MM'24,25)
+- International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI'25)
 	
 ### Journal
-	IEEE Transactions on Medical Imaging (TMI)<br>
-	IEEE Transactions on Image Processing (TIP)<br>
- 	IEEE Transactions on Fuzzy Systems (TFS)<br>
-	IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)<br>
-	Medical Image Analysis (MedIA)<br>
-	Pattern Recognition (PR)<br>
- 	Computerized Medical Imaging and Graphics (CMIG)<br>
+- IEEE Transactions on Medical Imaging (TMI)
+- IEEE Transactions on Image Processing (TIP)
+- IEEE Transactions on Fuzzy Systems (TFS)
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+- Medical Image Analysis (MedIA)
+- Pattern Recognition (PR)
+- Computerized Medical Imaging and Graphics (CMIG)
 
 <h2>Teaching</h2>
 ### Course
