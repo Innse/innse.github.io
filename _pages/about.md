@@ -21,17 +21,17 @@ td, th {
 <h2>News</h2>
 <div style="height: 240px; overflow: auto;">
 <ul>
-<li>[02/2025] One paper was accepted by **CVPR 2025**.</li>
-<li>[01/2025] One paper (co-author) was accepted by **IEEE Transactions on Medical Imaging (TMI)**.</li>
-<li>[07/2024] Thrilled to announce our latest work **mSTAR**, a multimodal-enhanced whole slide pathology foundation model.</li>
-<li>[06/2024] One paper (co-author) was accepted by **MICCAI 2024**.</li>
-<li>[04/2024] One paper was accepted by **TCSVT**.</li>
-<li>[01/2024] One paper was accepted by **ICLR 2024** as **Spotlight** paper!!</li>
-<li>[07/2023] One paper was accepted by **ICCV 2023**!!</li>
-<li>[08/2022] I start Ph.D at [SMARTLab](https://hkustsmartlab.github.io/)@HKUST on 2022 Fall.</li>
+<li>[02/2025] One paper was accepted by <strong>CVPR 2025</strong>.</li>
+<li>[01/2025] One paper (co-author) was accepted by <strong>IEEE Transactions on Medical Imaging (TMI)</strong>.</li>
+<li>[07/2024] Thrilled to announce our latest work <strong>mSTAR</strong>, a multimodal-enhanced whole slide pathology foundation model.</li>
+<li>[06/2024] One paper (co-author) was accepted by <strong>MICCAI 2024</strong>.</li>
+<li>[04/2024] One paper was accepted by <strong>TCSVT</strong>.</li>
+<li>[01/2024] One paper was accepted by <strong>ICLR 2024</strong> as <strong>Spotlight</strong> paper!!</li>
+<li>[07/2023] One paper was accepted by <strong>ICCV 2023</strong>!!</li>
+<li>[08/2022] I start Ph.D at SMARTLab@HKUST on 2022 Fall.</li>
 <li>[06/2022] I received my master degree at SCUT.</li>
-<li>[06/2021] I start internship at [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index) under the supervison of Dr. De Cai and [Xiao Han](https://www.linkedin.com/in/xiaohan2009).</li>
-<li>[12/2020] I'm honored with National Scholarship.</li>
+<li>[06/2021] I start internship at <strong>Tencent AI Lab</strong>.</li>
+<li>[12/2020] I'm honored with <strong>National Scholarship</strong>.</li>
 </ul>
 </div>
 <h2 id="education"> Education</h2>
