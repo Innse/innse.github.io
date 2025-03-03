@@ -152,6 +152,28 @@ Preprint
 	<tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               
+                  <img src="images/DisPro.png" width="180">
+              
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="">
+                <papertitle><font size="3">Distilled Prompt Learning for Incomplete Multimodal Survival Prediction</font></papertitle>
+              </a>
+              <br>
+	      <strong>Yingxue Xu</strong>, Fengtao Zhou, Chenyu Zhao, Yihui Wang, Can Yang and Hao Chen*
+              <br>
+	      <em><strong>CVPR</strong></em>, 2025
+	      <br>
+       	      <a href="">[Arxiv]</a>,
+	      <a href="">[Paper]</a>,
+	      <a href="https://github.com/Innse/DisPro">[Code]</a>.
+              <p></p>
+              
+            </td>
+          </tr>
+	<tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              
                   <img src="images/G-HANet.png" width="180">
               
             </td>
