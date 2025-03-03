@@ -377,8 +377,8 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
 
 <h2>Academic Services</h2>
 <strong>Regular Reviewers:</strong>
-	<li>	
-	<b>Conference</b><br>
+
+### Conference
 	International Conference on Computer Vision (ICCV'25)<br>
 	International Conference on Machine Learning (ICML'25)<br>
 	Computer Vision and Pattern Recognition (CVPR'25)<br>
@@ -388,8 +388,7 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
 	ACM Multimedia (MM'24,25)<br>
 	International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI'25)<br>
 	
-	<li>	
-	<b>Journal</b><br>
+### Journal
 	IEEE Transactions on Medical Imaging (TMI)<br>
 	IEEE Transactions on Image Processing (TIP)<br>
  	IEEE Transactions on Fuzzy Systems (TFS)<br>
@@ -397,7 +396,6 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
 	Medical Image Analysis (MedIA)<br>
 	Pattern Recognition (PR)<br>
  	Computerized Medical Imaging and Graphics (CMIG)<br>
-	</li>
 
 <h2>Teaching</h2>
 ### Course
