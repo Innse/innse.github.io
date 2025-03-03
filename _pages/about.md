@@ -18,21 +18,23 @@ td, th {
 }
 </style>
     
-News
-======
-- [02/2025] One paper was accepted by **CVPR 2025**.
-- [01/2025] One paper (co-author) was accepted by **IEEE Transactions on Medical Imaging (TMI)**.
-- [07/2024] Thrilled to announce our latest work **mSTAR**, a multimodal-enhanced whole slide pathology foundation model.
-- [06/2024] One paper (co-author) was accepted by **MICCAI 2024**.
-- [04/2024] One paper was accepted by **TCSVT**.
-- [01/2024] One paper was accepted by **ICLR 2024** as **Spotlight** paper!!
-- [07/2023] One paper was accepted by **ICCV 2023**!!
-- [08/2022] I start Ph.D at [SMARTLab](https://hkustsmartlab.github.io/)@HKUST on 2022 Fall.
-- [06/2022] I received my master degree at SCUT.
-- [06/2021] I start internship at [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index) under the supervison of Dr. De Cai and [Xiao Han](https://www.linkedin.com/in/xiaohan2009).
-- [12/2020] I'm honored with National Scholarship.
-
-<h1 id="education"> Education</h1>
+<h2>News</h2>
+<div style="height: 240px; overflow: auto;">
+<ul>
+<li>[02/2025] One paper was accepted by **CVPR 2025**.</li>
+<li>[01/2025] One paper (co-author) was accepted by **IEEE Transactions on Medical Imaging (TMI)**.</li>
+<li>[07/2024] Thrilled to announce our latest work **mSTAR**, a multimodal-enhanced whole slide pathology foundation model.</li>
+<li>[06/2024] One paper (co-author) was accepted by **MICCAI 2024**.</li>
+<li>[04/2024] One paper was accepted by **TCSVT**.</li>
+<li>[01/2024] One paper was accepted by **ICLR 2024** as **Spotlight** paper!!</li>
+<li>[07/2023] One paper was accepted by **ICCV 2023**!!</li>
+<li>[08/2022] I start Ph.D at [SMARTLab](https://hkustsmartlab.github.io/)@HKUST on 2022 Fall.</li>
+<li>[06/2022] I received my master degree at SCUT.</li>
+<li>[06/2021] I start internship at [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index) under the supervison of Dr. De Cai and [Xiao Han](https://www.linkedin.com/in/xiaohan2009).</li>
+<li>[12/2020] I'm honored with National Scholarship.</li>
+</ul>
+</div>
+<h2 id="education"> Education</h2>
 <table style="border: none;rules:none;cellspacing:0;font-size:16px;">
 <tbody><tr>
     <td><b>08/2022 - present</b> &nbsp;&nbsp;&nbsp;</td>
@@ -73,15 +75,13 @@ News
 </tr>
 </tbody></table>
 
-Research Interests
-======
-Multimodal Learning (e.g. Fusion, Missing Modality, Pretraining), Computational Pathology, Survival Analysis, Optimal Transport and Domain Adaptation/Generalization
+<h2>Research Interests</h2>
+Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Missing Modality, Pretraining), Survival Analysis, Spatial Transcriptomics, Optimal Transport and Domain Adaptation/Generalization
 
 ---
 (^: Equally Contributed, *: Corresponding Authors)
 
-Preprint
-======
+<h2>Preprint</h2>
 <body>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;rules:none;"><tbody> 
 
@@ -146,7 +146,7 @@ Preprint
          </tbody></table>
 </body>
 
-<h1 id="publication">Selected Publications <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=XY6NCLMAAAAJ">[Full List]</a></h1>
+<h2 id="publication">Selected Publications <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=XY6NCLMAAAAJ">[Full List]</a></h2>
 <body>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;rules:none;"><tbody>
 	<tr>
@@ -376,12 +376,11 @@ Preprint
 </body>
 
 
-Teaching
-======
-### Course
+<h2>Teaching</h2>
+#### Course
 <table style="border: none;rules:none;cellspacing:0;font-size:16px;">
 <tbody><tr>
-    <td><b>2023 Spring</b></td>
+    <td><b>2024 Fall, 2023 Spring</b></td>
     <td>TA</td>
     <td>COMP2011 - Programming with C++</td>
 </tr>
@@ -392,8 +391,8 @@ Teaching
 </tr>
 </tbody></table>
 
-### Advised Mentee
-- [Yilan Zhang](https://zylbuaa.github.io/) (05/2023 - present, M.S. in Beihang University)
+#### Advised Mentee
+- [Yilan Zhang](https://zylbuaa.github.io/) (05/2023 - 01/2024, M.S. in Beihang University)
 - Yihui Wang (06/2023 - present, Ph.D in HKUST)
 - Chenyu Zhao (08/2023 - present, MPhil in HKUST)
 - KWOK Sze Heng Douglas (01/2023 - 08/2023, UG in HKUST)
