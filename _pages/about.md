@@ -375,9 +375,37 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
          </tbody></table>
 </body>
 
+<h2>Academic Services</h2>
+	<td><b>Regular Reviewers:</b>
+	<p></p>
+<ul>
+	<li>	
+	<b>Conference</b><br>
+	International Conference on Computer Vision (ICCV'25)<br>
+	International Conference on Machine Learning (ICML'25)<br>
+	Computer Vision and Pattern Recognition (CVPR'25)<br>
+	International Conference on Artificial Intelligence and Statistics (AISTATS'25)<br>
+	International Conference on Learning Representations (ICLR'25)<br>
+	Neural Information Processing Systems (NeurIPS'24)<br>
+	ACM Multimedia (MM'24,25)<br>
+	International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI'25)<br>
+	
+	<li>	
+	<b>Journal</b><br>
+	IEEE Transactions on Medical Imaging (TMI)<br>
+	IEEE Transactions on Image Processing (TIP)<br>
+ 	IEEE Transactions on Fuzzy Systems (TFS)<br>
+	IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)<br>
+	Medical Image Analysis (MedIA)<br>
+	Pattern Recognition (PR)<br>
+ 	Computerized Medical Imaging and Graphics (CMIG)<br>
+	
+
+	</li>
+</ul>
 
 <h2>Teaching</h2>
-#### Course
+### Course
 <table style="border: none;rules:none;cellspacing:0;font-size:16px;">
 <tbody><tr>
     <td><b>2024 Fall, 2023 Spring</b></td>
@@ -391,8 +419,8 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
 </tr>
 </tbody></table>
 
-#### Advised Mentee
-- [Yilan Zhang](https://zylbuaa.github.io/) (05/2023 - 01/2024, M.S. in Beihang University)
+### Advised Mentee
+- [Yilan Zhang](https://zylbuaa.github.io/) (05/2023 - 01/2024, M.S. in Beihang University -> Ph.D in KAUST)
 - Yihui Wang (06/2023 - present, Ph.D in HKUST)
 - Chenyu Zhao (08/2023 - present, MPhil in HKUST)
 - KWOK Sze Heng Douglas (01/2023 - 08/2023, UG in HKUST)
