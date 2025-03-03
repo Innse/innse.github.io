@@ -376,8 +376,7 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
 </body>
 
 <h2>Academic Services</h2>
-	<td><b>Regular Reviewers:</b>
-	<p></p>
+<b>Regular Reviewers:</b>
 <ul>
 	<li>	
 	<b>Conference</b><br>
