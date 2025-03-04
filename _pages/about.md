@@ -156,7 +156,7 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
               
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;">
-              <a href="">
+              <a href="https://arxiv.org/abs/2503.01653">
                 <papertitle><font size="3">Distilled Prompt Learning for Incomplete Multimodal Survival Prediction</font></papertitle>
               </a>
               <br>
@@ -164,7 +164,7 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
               <br>
 	      <em><strong>CVPR</strong></em>, 2025
 	      <br>
-       	      <a href="">[Arxiv]</a>,
+       	      <a href="https://arxiv.org/abs/2503.01653">[Arxiv]</a>,
 	      <a href="">[Paper]</a>,
 	      <a href="https://github.com/Innse/DisPro">[Code]</a>.
               <p></p>
