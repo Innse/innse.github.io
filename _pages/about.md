@@ -99,9 +99,9 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
                 <papertitle><font size="3">A Multimodal Knowledge-enhanced Whole-slide Pathology Foundation Model</font></papertitle>
               </a>
               <br>
-	       <strong>Yingxue Xu^</strong>, Yihui Wang^, Fengtao Zhou, Jiabo Ma, Shu Yang, Huangjing Lin, Xin Wang, Jiguang Wang, Li Liang, Anjia Han, Ronald Cheong Kin Chan, Hao Chen*
+	       <strong>Yingxue Xu^</strong>, Yihui Wang^, Fengtao Zhou^, Jiabo Ma, Cheng Jin, Shu Yang, Jinbang Li, Zhengyu Zhang, Chenglong Zhao, Huajun Zhou, Zhenhui Li, Huangjing Lin, Xin Wang, Jiguang Wang, Anjia Han, Ronald Cheong Kin Chan, Li Liang, Xiuming Zhang, Hao Chen*
               <br>
-              <a href="https://arxiv.org/abs/2407.15362">[Arxiv]</a>, 2024
+              <a href="https://arxiv.org/abs/2407.15362">[Arxiv]</a>, <a href="https://github.com/Innse/mSTAR">[Code]</a>, <a href="https://huggingface.co/Wangyh/mSTAR">[Weights]</a>, 2024
               <p></p>
               
             </td>
