@@ -21,6 +21,7 @@ td, th {
 <h2>News</h2>
 <div style="height: 240px; overflow: auto;">
 <ul>
+<li>[02/2025] Thrilled to release the <font color="red">weights and code</font> for mSTAR. The manuscript is updated and our results are released at our <a href="https://smartlab.cse.ust.hk/showcase/PathBench/"><font color="red">PathBench</font></a>.</li>
 <li>[02/2025] One paper was accepted by <strong>CVPR 2025</strong>.</li>
 <li>[01/2025] One paper (co-author) was accepted by <strong>IEEE Transactions on Medical Imaging (TMI)</strong>.</li>
 <li>[07/2024] Thrilled to announce our latest work <strong>mSTAR</strong>, a multimodal-enhanced whole slide pathology foundation model.</li>
@@ -101,7 +102,7 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
               <br>
 	       <strong>Yingxue Xu^</strong>, Yihui Wang^, Fengtao Zhou^, Jiabo Ma, Cheng Jin, Shu Yang, Jinbang Li, Zhengyu Zhang, Chenglong Zhao, Huajun Zhou, Zhenhui Li, Huangjing Lin, Xin Wang, Jiguang Wang, Anjia Han, Ronald Cheong Kin Chan, Li Liang, Xiuming Zhang, Hao Chen*
               <br>
-              <a href="https://arxiv.org/abs/2407.15362">[Arxiv]</a>, <a href="https://github.com/Innse/mSTAR">[Code]</a>, <a href="https://huggingface.co/Wangyh/mSTAR">[Weights]</a>, 2024
+              <a href="https://arxiv.org/abs/2407.15362">[Arxiv]</a>, <a href="https://github.com/Innse/mSTAR">[Code]</a>, <a href="https://huggingface.co/Wangyh/mSTAR">[Weights]</a>, <a href="https://smartlab.cse.ust.hk/showcase/PathBench/">[BenchMark]</a>, 2024
               <p></p>
               
             </td>
