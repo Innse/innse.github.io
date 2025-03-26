@@ -21,7 +21,7 @@ td, th {
 <h2>News</h2>
 <div style="height: 240px; overflow: auto;">
 <ul>
-<li>[02/2025] Thrilled to release the <font color="red">weights and code</font> for mSTAR. The manuscript is updated and our results are released at our <a href="https://smartlab.cse.ust.hk/showcase/PathBench/"><font color="red">PathBench</font></a>.</li>
+<li>[02/2025] Thrilled to release the <font color="red"><strong>weights and code</strong></font> for mSTAR. The manuscript is updated and our results are released at our <a href="https://smartlab.cse.ust.hk/showcase/PathBench/"><font color="red"><strong>PathBench</strong></font></a>.</li>
 <li>[02/2025] One paper was accepted by <strong>CVPR 2025</strong>.</li>
 <li>[01/2025] One paper (co-author) was accepted by <strong>IEEE Transactions on Medical Imaging (TMI)</strong>.</li>
 <li>[07/2024] Thrilled to announce our latest work <strong>mSTAR</strong>, a multimodal-enhanced whole slide pathology foundation model.</li>
