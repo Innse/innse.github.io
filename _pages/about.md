@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D Student (2022 Fall) at [SMARTLab](https://hkustsmartlab.github.io/) in CSE of [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) supervised by Prof. [Hao CHEN](https://cse.hkust.edu.hk/~jhc/). Before that, I obtained the B.Eng and Msc. degree in CS, [SCUT](http://www.scut.edu.cn) in 2019 and 2022.
+I'm a Ph.D Student (2022 Fall) at [SMARTLab](https://smartlab.cse.ust.hk/) in CSE of [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) supervised by Prof. [Hao CHEN](https://cse.hkust.edu.hk/~jhc/). Before that, I obtained the B.Eng and Msc. degree in CS, [SCUT](http://www.scut.edu.cn) in 2019 and 2022.
 
 
 <style>
