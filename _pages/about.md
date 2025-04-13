@@ -21,7 +21,8 @@ td, th {
 <h2>News</h2>
 <div style="height: 240px; overflow: auto;">
 <ul>
-<li>[03/2025] Thrilled to release the <font color="red"><strong>weights and code</strong></font> for mSTAR. The manuscript is updated and results are released at our <a href="https://smartlab.cse.ust.hk/showcase/PathBench/"><font color="red"><strong>PathBench</strong></font></a>.</li>
+<li>[02/2025] One paper was accepted by <strong>Nature Biomedical Engineering (NBME)</strong>.</li>
+<li>[03/2025] Thrilled to release the weights and code for <font color="red"><strong>mSTAR</strong></font>. The manuscript is updated and results are released at our <a href="https://smartlab.cse.ust.hk/showcase/PathBench/"><font color="red"><strong>PathBench</strong></font></a>.</li>
 <li>[02/2025] One paper was accepted by <strong>CVPR 2025</strong>.</li>
 <li>[01/2025] One paper (co-author) was accepted by <strong>IEEE Transactions on Medical Imaging (TMI)</strong>.</li>
 <li>[07/2024] Thrilled to announce our latest work <strong>mSTAR</strong>, a multimodal-enhanced whole slide pathology foundation model.</li>
@@ -110,24 +111,6 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
 	  <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               
-                  <img src="images/gpfm.png" width="180">
-              
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle;">
-              <a href="https://arxiv.org/abs/2407.18449">
-                <papertitle><font size="3">Towards A Generalizable Pathology Foundation Model via Unified Knowledge Distillation</font></papertitle>
-              </a>
-              <br>
-	       Jiabo Ma^, Zhengrui Guo^, Fengtao Zhou, Yihui Wang, <strong>Yingxue Xu</strong>, Yu Cai, Zhengjie Zhu, Cheng Jin, Yi Lin, Xinrui Jiang, Anjia Han, Li Liang, Ronald Cheong Kin Chan, Jiguang Wang, Kwang-Ting Cheng, Hao Chen*
-              <br>
-              <a href="https://arxiv.org/abs/2407.18449">[Arxiv]</a>, 2024
-              <p></p>
-              
-            </td>
-          </tr>
-	  <tr>
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              
                   <img src="images/imd4gc.png" width="180">
               
             </td>
@@ -150,6 +133,27 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
 <h2 id="publication">Selected Publications <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=XY6NCLMAAAAJ">[Full List]</a></h2>
 <body>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;rules:none;"><tbody>
+	<tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              
+                  <img src="images/gpfm.png" width="180">
+              
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="https://arxiv.org/abs/2407.18449">
+                <papertitle><font size="3">Towards A Generalizable Pathology Foundation Model via Unified Knowledge Distillation</font></papertitle>
+              </a>
+              <br>
+	       Jiabo Ma^, Zhengrui Guo^, Fengtao Zhou, Yihui Wang, <strong>Yingxue Xu</strong>, Yu Cai, Zhengjie Zhu, Cheng Jin, Yi Lin, Xinrui Jiang, Anjia Han, Li Liang, Ronald Cheong Kin Chan, Jiguang Wang, Kwang-Ting Cheng, Hao Chen*
+              <br>
+	      <em><strong>Nature Biomedical Engineering</strong></em> (IF: 27.7), 2025 
+       	      <br>
+              <a href="https://arxiv.org/abs/2407.18449">[Arxiv]</a>
+	      <a href="https://github.com/birkhoffkiki/GPFM">[Code]</a>.
+              <p></p>
+              
+            </td>
+          </tr>
 	<tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               
