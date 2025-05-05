@@ -103,7 +103,7 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
               <br>
 	       <strong>Yingxue Xu^</strong>, Yihui Wang^, Fengtao Zhou^, Jiabo Ma, Cheng Jin, Shu Yang, Jinbang Li, Zhengyu Zhang, Chenglong Zhao, Huajun Zhou, Zhenhui Li, Huangjing Lin, Xin Wang, Jiguang Wang, Anjia Han, Ronald Cheong Kin Chan, Li Liang, Xiuming Zhang, Hao Chen*
               <br>
-              <a href="https://arxiv.org/abs/2407.15362">[Arxiv]</a>, <a href="https://github.com/Innse/mSTAR">[Code]</a>, <a href="https://huggingface.co/Wangyh/mSTAR">[Weights]</a>, <a href="https://smartlab.cse.ust.hk/showcase/PathBench/">[BenchMark]</a>, 2024
+              <a href="https://arxiv.org/abs/2407.15362">[Arxiv]</a>, <a href="https://github.com/Innse/mSTAR">[Code]</a>, <a href="https://huggingface.co/Wangyh/mSTAR">[Weights]</a>, <a href="https://smartlab.cse.ust.hk/showcase/PathBench/">[BenchMark]</a>, <a href="https://paper.smartpath.space">[Demo]</a>, 2024
               <p></p>
               
             </td>
