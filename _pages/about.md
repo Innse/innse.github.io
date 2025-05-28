@@ -21,8 +21,9 @@ td, th {
 <h2>News</h2>
 <div style="height: 240px; overflow: auto;">
 <ul>
+<li>[05/2025] Excited to announce our latest work, a pathology benchmark, <a href="https://smartlab.cse.ust.hk/showcase/PathBench/"><font color="red"><strong>PathBench</strong></font></a>.</li>
 <li>[04/2025] One paper (co-author) was accepted by <strong>Nature Biomedical Engineering (NBME)</strong>.</li>
-<li>[03/2025] Thrilled to release the weights and code for <font color="red"><strong>mSTAR</strong></font>. The manuscript is updated and results are released at our <a href="https://smartlab.cse.ust.hk/showcase/PathBench/"><font color="red"><strong>PathBench</strong></font></a>.</li>
+<li>[03/2025] Thrilled to release the weights and code for <font color="red"><strong>mSTAR</strong></font>. The manuscript is updated and results are released at our <a href="https://smartlab.cse.ust.hk/showcase/PathBench/"><strong>PathBench</strong></a>.</li>
 <li>[02/2025] One paper was accepted by <strong>CVPR 2025</strong>.</li>
 <li>[01/2025] One paper (co-author) was accepted by <strong>IEEE Transactions on Medical Imaging (TMI)</strong>.</li>
 <li>[07/2024] Thrilled to announce our latest work <strong>mSTAR</strong>, a multimodal-enhanced whole slide pathology foundation model.</li>
@@ -89,7 +90,24 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
 
 
           
-	  
+	  <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              
+                  <img src="images/pathbench.png" width="180">
+              
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="https://arxiv.org/abs/2505.20202">
+                <papertitle><font size="3">PathBench: A comprehensive comparison benchmark for pathology foundation models towards precision oncology</font></papertitle>
+              </a>
+              <br>
+	       Jiabo Ma^, <strong>Yingxue Xu^</strong>, Fengtao Zhou^, Yihui Wang, Cheng Jin, Zhengrui Guo, Jianfeng Wu, On Ki Tang, Huajun Zhou, Xi Wang, Luyang Luo, Zhengyu Zhang, Du Cai, Zizhao Gao, Wei Wang, Yueping Liu, Jiankun He, Jing Cui, Zhenhui Li, Jing Zhang, Feng Gao*, Xiuming Zhang*, Li Liang*, Ronald Cheong Kin Chan*, Zhe Wang*, Hao Chen*
+              <br>
+              <a href="https://arxiv.org/abs/2505.20202">[Arxiv]</a>, <a href="https://github.com/birkhoffkiki/PathBench">[Repo]</a>, <a href="https://smartlab.cse.ust.hk/showcase/PathBench/">[Website]</a>, 2025
+              <p></p>
+              
+            </td>
+          </tr>
 	  <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               
