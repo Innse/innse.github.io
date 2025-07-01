@@ -93,6 +93,24 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
 	  <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               
+                  <img src="images/pathlupi.png" width="180">
+              
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="https://arxiv.org/abs/2506.19681">
+                <papertitle><font size="3">Genome-Anchored Foundation Model Embeddings Improve Molecular Prediction from Histology Images</font></papertitle>
+              </a>
+              <br>
+	       Cheng Jin^, Fengtao Zhou^, Yunfang Yu^, Jiabo Ma, Yihui Wang, <strong>Yingxue Xu</strong>, Huajun Zhou, Hao Jiang, Luyang Luo, Luhui Mao, Zifan He, Xiuming Zhang, Jing Zhang, Ronald Chan, Herui Yao*, Hao Chen*
+              <br>
+              <a href="https://arxiv.org/abs/2506.19681">[Arxiv]</a>, 2025
+              <p></p>
+              
+            </td>
+          </tr>
+	  <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              
                   <img src="images/pathbench.png" width="180">
               
             </td>
