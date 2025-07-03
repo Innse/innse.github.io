@@ -93,6 +93,25 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
 	  <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               
+                  <img src="images/genomics.png" width="180">
+              
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="https://www.biorxiv.org/content/10.1101/2025.06.25.661622v1">
+                <papertitle><font size="3">Genomic Touchstone: Benchmarking Genomic Language Models in the Context of the Central Dogma</font></papertitle>
+              </a>
+              <br>
+	       Yihui Wang, Zhiyuan Cai, Qian Zeng, Yihang Gao, Jiarui Ouyang, <strong>Yingxue Xu</strong>, Shu Yang, Sunan He, Yuxiang Nie, Yu Cai, Fengtao Zhou, Cheng Jin, Xi Wang,  Zhi Xie, Danqing Zhu, Ting Xie, Kwang-Ting Cheng, Can Yang,  Xi Fu,  Jiguang Wang, Kang Zhang, Jianhua Yao,  Raul Rabadan, Hao Chen*
+              <br>
+              <a href="https://www.biorxiv.org/content/10.1101/2025.06.25.661622v1">[BioRxiv]</a>, 2025
+              <p></p>
+              
+            </td>
+          </tr>
+	  <tr>
+   	<tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              
                   <img src="images/pathlupi.png" width="180">
               
             </td>
