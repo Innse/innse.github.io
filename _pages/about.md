@@ -108,7 +108,7 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
               
             </td>
           </tr>
-	  <tr>
+	  
    	<tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               
