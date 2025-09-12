@@ -222,8 +222,7 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
 	      <em><strong>Nature Biomedical Engineering</strong></em> (IF: 27.7), 2025 
        	      <br>
               <a href="https://arxiv.org/abs/2407.18449">[Arxiv]</a>
-	      <a href="https://github.com/birkhoffkiki/GPFM">[Code]</a>
-	   	  <a href="https://www.nature.com/articles/s41551-025-01488-4">[Paper]</a>.
+	      <a href="https://github.com/birkhoffkiki/GPFM">[Code]</a> <a href="https://www.nature.com/articles/s41551-025-01488-4">[Paper]</a>.
               <p></p>
               
             </td>
@@ -480,6 +479,10 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
 ### Course
 <table style="border: none;rules:none;cellspacing:0;font-size:16px;">
 <tbody><tr>
+    <td><b>2024 Fall, 2025 Spring</b></td>
+    <td>TA</td>
+    <td>COMP1023 - Introduction to Python Programming</td>
+</tr><tr>
     <td><b>2024 Fall, 2023 Spring</b></td>
     <td>TA</td>
     <td>COMP2011 - Programming with C++</td>
