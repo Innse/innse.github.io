@@ -89,8 +89,26 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;rules:none;"><tbody> 
 
 
-          
-	  <tr>
+   <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              
+                  <img src="images/geneanchor.png" width="180">
+              
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="https://arxiv.org/abs/2506.19681">
+                <papertitle><font size="3">Genome-Anchored Foundation Model Embeddings Improve Molecular Prediction from Histology Images</font></papertitle>
+              </a>
+              <br>
+	       Cheng Jin^, Fengtao Zhou^, Yunfang Yu^, Jiabo Ma, Yihui Wang, <strong>Yingxue Xu</strong>, Huajun Zhou, Hao Jiang, Luyang Luo, Luhui Mao, Zifan He, Xiuming Zhang, Jing Zhang, Ronald Chan, Herui Yao, Hao Chen*
+              <br>
+              <a href="https://arxiv.org/abs/2506.19681">[Arxiv]</a>, 2025
+              <p></p>
+              
+            </td>
+          </tr>       
+	  
+   <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               
                   <img src="images/genomics.png" width="180">
@@ -204,7 +222,8 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
 	      <em><strong>Nature Biomedical Engineering</strong></em> (IF: 27.7), 2025 
        	      <br>
               <a href="https://arxiv.org/abs/2407.18449">[Arxiv]</a>
-	      <a href="https://github.com/birkhoffkiki/GPFM">[Code]</a>.
+	      <a href="https://github.com/birkhoffkiki/GPFM">[Code]</a>
+	   	  <a href="https://www.nature.com/articles/s41551-025-01488-4">[Paper]</a>.
               <p></p>
               
             </td>
@@ -225,7 +244,7 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
 	      <em><strong>CVPR</strong></em>, 2025
 	      <br>
        	      <a href="https://arxiv.org/abs/2503.01653">[Arxiv]</a>,
-	      <a href="">[Paper]</a>,
+	      <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Distilled_Prompt_Learning_for_Incomplete_Multimodal_Survival_Prediction_CVPR_2025_paper.pdf">[Paper]</a>,
 	      <a href="https://github.com/Innse/DisPro">[Code]</a>.
               <p></p>
               
