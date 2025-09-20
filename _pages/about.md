@@ -21,7 +21,7 @@ td, th {
 <h2>News</h2>
 <div style="height: 240px; overflow: auto;">
 <ul>
-<li>[09/2025] One paper was accepted by <strong>Nature Communications</strong>!
+<li>[09/2025] One paper was accepted by <strong>Nature Communications</strong>!</li>
 <li>[05/2025] Excited to announce our latest work, a pathology benchmark, <a href="https://smartlab.cse.ust.hk/showcase/PathBench/"><font color="red"><strong>PathBench</strong></font></a>.</li>
 <li>[04/2025] One paper (co-author) was accepted by <strong>Nature Biomedical Engineering (NBME)</strong>.</li>
 <li>[03/2025] Thrilled to release the weights and code for <font color="red"><strong>mSTAR</strong></font>. The manuscript is updated and results are released at our <a href="https://smartlab.cse.ust.hk/showcase/PathBench/"><strong>PathBench</strong></a>.</li>
