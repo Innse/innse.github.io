@@ -203,7 +203,7 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
                 <papertitle><font size="3">Towards A Generalizable Pathology Foundation Model via Unified Knowledge Distillation</font></papertitle>
               </a>
               <br>
-	       Jiabo Ma^, Zhengrui Guo^, Fengtao Zhou, Yihui Wang, <strong>Yingxue Xu</strong>, Yu Cai, Zhengjie Zhu, Cheng Jin, Yi Lin, Xinrui Jiang, Anjia Han, Li Liang, Ronald Cheong Kin Chan, Jiguang Wang, Kwang-Ting Cheng, Hao Chen*
+	       Jiabo Ma^, Zhengrui Guo^, Fengtao Zhou, Yihui Wang, Yingxue Xu, Jinbang Li, Fang Yan, Yu Cai, Zhengjie Zhu, Cheng Jin, Yi Lin, Xinrui Jiang, Chenglong Zhao, Danyi Li, Anjia Han, Zhenhui Li, Ronald Cheong Kin Chan, Jiguang Wang, Peng Fei, Kwang-Ting Cheng, Shaoting Zhang*, Li Liang*, Hao Chen*
               <br>
 	      <em><strong>Nature Biomedical Engineering</strong></em>, 2025 
        	      <br>
