@@ -21,6 +21,7 @@ td, th {
 <h2>News</h2>
 <div style="height: 240px; overflow: auto;">
 <ul>
+<li>[09/2025] One paper was accepted by <strong>Nature Communications</strong>!
 <li>[05/2025] Excited to announce our latest work, a pathology benchmark, <a href="https://smartlab.cse.ust.hk/showcase/PathBench/"><font color="red"><strong>PathBench</strong></font></a>.</li>
 <li>[04/2025] One paper (co-author) was accepted by <strong>Nature Biomedical Engineering (NBME)</strong>.</li>
 <li>[03/2025] Thrilled to release the weights and code for <font color="red"><strong>mSTAR</strong></font>. The manuscript is updated and results are released at our <a href="https://smartlab.cse.ust.hk/showcase/PathBench/"><strong>PathBench</strong></a>.</li>
@@ -145,25 +146,7 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
               
             </td>
           </tr>
-	  <tr>
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              
-                  <img src="images/mstar.png" width="180">
-              
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle;">
-              <a href="https://arxiv.org/abs/2407.15362">
-                <papertitle><font size="3">A Multimodal Knowledge-enhanced Whole-slide Pathology Foundation Model</font></papertitle>
-              </a>
-              <br>
-	       <strong>Yingxue Xu^</strong>, Yihui Wang^, Fengtao Zhou^, Jiabo Ma, Cheng Jin, Shu Yang, Jinbang Li, Zhengyu Zhang, Chenglong Zhao, Huajun Zhou, Zhenhui Li, Huangjing Lin, Xin Wang, Jiguang Wang, Anjia Han, Ronald Cheong Kin Chan, Li Liang, Xiuming Zhang, Hao Chen*
-              <br>
-              <a href="https://arxiv.org/abs/2407.15362">[Arxiv]</a>, <a href="https://github.com/Innse/mSTAR">[Code]</a>, <a href="https://huggingface.co/Wangyh/mSTAR">[Weights]</a>, <a href="https://smartlab.cse.ust.hk/showcase/PathBench/">[BenchMark]</a>, <a href="https://paper.smartpath.space">[Demo]</a>, 2024
-              <p></p>
-              
-            </td>
-          </tr>
-	  <tr>
+	  
             <td style="padding:20px;width:25%;vertical-align:middle">
               
                   <img src="images/imd4gc.png" width="180">
@@ -191,6 +174,25 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
 	<tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               
+                  <img src="images/mstar.png" width="180">
+              
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="https://arxiv.org/abs/2407.15362">
+                <papertitle><font size="3">A Multimodal Knowledge-enhanced Whole-slide Pathology Foundation Model</font></papertitle>
+              </a>
+              <br>
+	       <strong>Yingxue Xu^</strong>, Yihui Wang^, Fengtao Zhou^, Jiabo Ma, Cheng Jin, Shu Yang, Jinbang Li, Zhengyu Zhang, Chenglong Zhao, Huajun Zhou, Zhenhui Li, Huangjing Lin, Xin Wang, Jiguang Wang, Anjia Han, Ronald Cheong Kin Chan, Li Liang, Xiuming Zhang, Hao Chen*
+              <br>
+              <a href="https://arxiv.org/abs/2407.15362">[Arxiv]</a>, <a href="https://github.com/Innse/mSTAR">[Code]</a>, <a href="https://huggingface.co/Wangyh/mSTAR">[Weights]</a>, <a href="https://smartlab.cse.ust.hk/showcase/PathBench/">[BenchMark]</a>, <a href="https://paper.smartpath.space">[Demo]</a>, <em><strong>Nature Communications</strong></em>, 2025
+              <p></p>
+              
+            </td>
+          </tr>
+	  <tr>
+	<tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              
                   <img src="images/gpfm.png" width="180">
               
             </td>
@@ -201,7 +203,7 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
               <br>
 	       Jiabo Ma^, Zhengrui Guo^, Fengtao Zhou, Yihui Wang, <strong>Yingxue Xu</strong>, Yu Cai, Zhengjie Zhu, Cheng Jin, Yi Lin, Xinrui Jiang, Anjia Han, Li Liang, Ronald Cheong Kin Chan, Jiguang Wang, Kwang-Ting Cheng, Hao Chen*
               <br>
-	      <em><strong>Nature Biomedical Engineering</strong></em> (IF: 27.7), 2025 
+	      <em><strong>Nature Biomedical Engineering</strong></em>, 2025 
        	      <br>
               <a href="https://arxiv.org/abs/2407.18449">[Arxiv]</a>
 	      <a href="https://github.com/birkhoffkiki/GPFM">[Code]</a> <a href="https://www.nature.com/articles/s41551-025-01488-4">[Paper]</a>.
