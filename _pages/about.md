@@ -146,7 +146,7 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
               
             </td>
           </tr>
-	  
+	  <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               
                   <img src="images/imd4gc.png" width="180">
@@ -189,7 +189,7 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
               
             </td>
           </tr>
-	  <tr>
+	  
 	<tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               
