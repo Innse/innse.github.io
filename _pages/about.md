@@ -203,6 +203,24 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
               
             </td>
           </tr>
+	<tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              
+                  <img src="images/mm_survey.png" width="180">
+              
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="https://arxiv.org/abs/2406.19611">
+                <papertitle><font size="3">Multimodal data integration for precision oncology: Challenges and future directions</font></papertitle>
+              </a>
+              <br>
+	       Huajun Zhou, Fengtao Zhou, Chenyu Zhao, <strong>Yingxue Xu</strong>, Luyang Luo, Hao Chen*
+              <br>
+              <a href="https://arxiv.org/abs/2406.19611">[Arxiv]</a>, 2024
+              <p></p>
+              
+            </td>
+          </tr>
           
          </tbody></table>
 </body>
