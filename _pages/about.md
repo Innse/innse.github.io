@@ -146,24 +146,6 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
               
             </td>
           </tr>
-	  <tr>
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              
-                  <img src="images/imd4gc.png" width="180">
-              
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle;">
-              <a href="https://arxiv.org/abs/2404.01192">
-                <papertitle><font size="3">iMD4GC: Incomplete Multimodal Data Integration to Advance Precise Treatment Response Prediction and Survival Analysis for Gastric Cancer</font></papertitle>
-              </a>
-              <br>
-              Fengtao Zhou, <strong>Yingxue Xu</strong>, Yanfen Cui, Shenyan Zhang, Yun Zhu, Weiyang He, Jiguang Wang, Xin Wang, Ronald Chan, Louis Ho Shing Lau, Chu Han, Dafu Zhang, Zhenhui Li, Hao Chen*
-              <br>
-              <a href="https://arxiv.org/abs/2404.01192">[Arxiv]</a>, 2024
-              <p></p>
-              
-            </td>
-          </tr>
           
          </tbody></table>
 </body>
@@ -171,6 +153,26 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
 <h2 id="publication">Selected Publications <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=XY6NCLMAAAAJ">[Full List]</a></h2>
 <body>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;rules:none;"><tbody>
+	<tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              
+                  <img src="images/imd4gc.png" width="180">
+              
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="https://arxiv.org/abs/2404.01192">
+                <papertitle><font size="3">Interpretable and robust multimodal data integration for precise treatment response and survival prediction in gastric cancer</font></papertitle>
+              </a>
+              <br>
+              Fengtao Zhou, <strong>Yingxue Xu</strong>, Yanfen Cui, Shenyan Zhang, Yun Zhu, Weiyang He, Dafu Zhang, Jiguang Wang, Xin Wang, Ronald CK Chan, Louis Ho Shing Lau, Chu Han, Zhenhui Li*, Hao Chen*
+              <br>
+			  <em><strong>The Innovation Informatics</strong></em>, 2025
+			  <br>
+              <a href="https://arxiv.org/abs/2404.01192">[Arxiv]</a>, <a href="https://www.the-innovation.org/article/doi/10.59717/j.xinn-inform.2025.100010">[Paper]</a>.
+              <p></p>
+              
+            </td>
+          </tr>
 	<tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               
