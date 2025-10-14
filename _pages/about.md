@@ -21,6 +21,8 @@ td, th {
 <h2>News</h2>
 <div style="height: 240px; overflow: auto;">
 <ul>
+<li>[10/2025] One paper (co-author) was accepted by <strong>The Innovation Informatics</strong>!</li>
+<li>[10/2025] One paper (co-author) was accepted by <strong>Nature Biomedical Engineering (NBME)</strong>!</li>
 <li>[09/2025] One paper was accepted by <strong>Nature Communications</strong>!</li>
 <li>[05/2025] Excited to announce our latest work, a pathology benchmark, <a href="https://smartlab.cse.ust.hk/showcase/PathBench/"><font color="red"><strong>PathBench</strong></font></a>.</li>
 <li>[04/2025] One paper (co-author) was accepted by <strong>Nature Biomedical Engineering (NBME)</strong>.</li>
@@ -91,6 +93,61 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
 
        
 	  
+   
+   <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              
+                  <img src="images/genar.png" width="180">
+              
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="https://arxiv.org/abs/2510.04315">
+                <papertitle><font size="3">GenAR: Next-Scale Autoregressive Generation for Spatial Gene Expression Prediction</font></papertitle>
+              </a>
+              <br>
+	       Jiarui Ouyang^, Yihui Wang^, Yihang Gao, <strong>Yingxue Xu</strong>, Shu Yang, Hao Chen*
+              <br>
+              <a href="https://arxiv.org/abs/2510.04315">[Arxiv]</a>, 2025
+              <p></p>
+              
+            </td>
+          </tr>
+	<tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              
+                  <img src="images/mice.png" width="180">
+              
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="https://arxiv.org/abs/2509.12600">
+                <papertitle><font size="3">A Multimodal Foundation Model to Enhance Generalizability and Data Efficiency for Pan-cancer Prognosis Prediction</font></papertitle>
+              </a>
+              <br>
+	       Huajun Zhou, Fengtao Zhou, Jiabo Ma, <strong>Yingxue Xu</strong>, Xi Wang, Xiuming Zhang, Li Liang, Zhenhui Li, Hao Chen*
+              <br>
+              <a href="https://arxiv.org/abs/2509.12600">[Arxiv]</a>, 2025
+              <p></p>
+              
+            </td>
+          </tr>
+	<tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              
+                  <img src="images/smartpath-r1.png" width="180">
+              
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="https://arxiv.org/abs/2507.17303">
+                <papertitle><font size="3">A Versatile Pathology Co-pilot via Reasoning Enhanced Multimodal Large Language Model</font></papertitle>
+              </a>
+              <br>
+	       Zhe Xu, Ziyi Liu, Junlin Hou, Jiabo Ma, Cheng Jin, Yihui Wang, Zhixuan Chen, Zhengyu Zhang, Fuxiang Huang, Zhengrui Guo, Fengtao Zhou, <strong>Yingxue Xu</strong>, Xi Wang, Ronald Cheong Kin Chan, Li Liang, Hao Chen*
+              <br>
+              <a href="https://arxiv.org/abs/2507.17303">[Arxiv]</a>, 2025
+              <p></p>
+              
+            </td>
+          </tr>
    <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               
@@ -205,12 +262,33 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
                 <papertitle><font size="3">Towards A Generalizable Pathology Foundation Model via Unified Knowledge Distillation</font></papertitle>
               </a>
               <br>
-	       Jiabo Ma^, Zhengrui Guo^, Fengtao Zhou, Yihui Wang, Yingxue Xu, Jinbang Li, Fang Yan, Yu Cai, Zhengjie Zhu, Cheng Jin, Yi Lin, Xinrui Jiang, Chenglong Zhao, Danyi Li, Anjia Han, Zhenhui Li, Ronald Cheong Kin Chan, Jiguang Wang, Peng Fei, Kwang-Ting Cheng, Shaoting Zhang*, Li Liang*, Hao Chen*
+	       Jiabo Ma^, Zhengrui Guo^, Fengtao Zhou, Yihui Wang, <strong>Yingxue Xu</strong>, Jinbang Li, Fang Yan, Yu Cai, Zhengjie Zhu, Cheng Jin, Yi Lin, Xinrui Jiang, Chenglong Zhao, Danyi Li, Anjia Han, Zhenhui Li, Ronald Cheong Kin Chan, Jiguang Wang, Peng Fei, Kwang-Ting Cheng, Shaoting Zhang*, Li Liang*, Hao Chen*
               <br>
 	      <em><strong>Nature Biomedical Engineering</strong></em>, 2025 
        	      <br>
               <a href="https://arxiv.org/abs/2407.18449">[Arxiv]</a>
 	      <a href="https://github.com/birkhoffkiki/GPFM">[Code]</a> <a href="https://www.nature.com/articles/s41551-025-01488-4">[Paper]</a>.
+              <p></p>
+              
+            </td>
+          </tr>
+	<tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              
+                  <img src="images/gsco.png" width="180">
+              
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="https://arxiv.org/abs/2404.15127">
+                <papertitle><font size="3">GSCo: Towards Generalizable AI in Medicine via Generalist-Specialist Collaboration</font></papertitle>
+              </a>
+              <br>
+	       Sunan He^, Yuxiang Nie^, Hongmei Wang, Shu Yang, Yihui Wang, Zhiyuan Cai, Zhixuan Chen, <strong>Yingxue Xu</strong>, Luyang Luo, Huiling Xiang, Xi Lin, Mingxiang Wu, Yifan Peng, George Shih, Ziyang Xu, Xian Wu, Qiong Wang, Ronald Cheong Kin Chan, Varut Vardhanabhuti, Winnie Chiu Wing Chu, Yefeng Zheng, Pranav Rajpurkar, Kang Zhang, Hao Chen*
+              <br>
+	      <em><strong>Nature Biomedical Engineering</strong></em>, 2025 
+       	      <br>
+              <a href="<strong>Yingxue Xu</strong>">[Arxiv]</a>,
+	      <a href="https://github.com/sunanhe/MedDr">[Code]</a>.
               <p></p>
               
             </td>
