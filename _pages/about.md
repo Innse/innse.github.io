@@ -277,7 +277,7 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;">
               <a href="https://arxiv.org/abs/2407.18449">
-                <papertitle><font size="3">Towards A Generalizable Pathology Foundation Model via Unified Knowledge Distillation</font></papertitle>
+                <papertitle><font size="3">A Generalizable Pathology Foundation Model using A Unified Knowledge Distillation Pretraining Framework</font></papertitle>
               </a>
               <br>
 	       Jiabo Ma^, Zhengrui Guo^, Fengtao Zhou, Yihui Wang, <strong>Yingxue Xu</strong>, Jinbang Li, Fang Yan, Yu Cai, Zhengjie Zhu, Cheng Jin, Yi Lin, Xinrui Jiang, Chenglong Zhao, Danyi Li, Anjia Han, Zhenhui Li, Ronald Cheong Kin Chan, Jiguang Wang, Peng Fei, Kwang-Ting Cheng, Shaoting Zhang*, Li Liang*, Hao Chen*
