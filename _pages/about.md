@@ -243,7 +243,7 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
               <br>
 			  <em><strong>The Innovation Informatics</strong></em>, 2025
 			  <br>
-              <a href="https://arxiv.org/abs/2404.01192">[Arxiv]</a>, <a href="https://www.the-innovation.org/article/doi/10.59717/j.xinn-inform.2025.100010">[Paper]</a>.
+              <a href="https://arxiv.org/abs/2404.01192">[Arxiv]</a>, <a href="https://www.the-innovation.org/article/doi/10.59717/j.xinn-inform.2025.100011">[Paper]</a>.
               <p></p>
               
             </td>
