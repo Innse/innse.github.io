@@ -87,144 +87,6 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
 ---
 (^: Equally Contributed, *: Corresponding Authors)
 
-<h2>Preprint</h2>
-<body>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;rules:none;"><tbody> 
-
-       
-	  
-   
-   <tr>
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              
-                  <img src="images/genar.png" width="180">
-              
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle;">
-              <a href="https://arxiv.org/abs/2510.04315">
-                <papertitle><font size="3">GenAR: Next-Scale Autoregressive Generation for Spatial Gene Expression Prediction</font></papertitle>
-              </a>
-              <br>
-	       Jiarui Ouyang^, Yihui Wang^, Yihang Gao, <strong>Yingxue Xu</strong>, Shu Yang, Hao Chen*
-              <br>
-              <a href="https://arxiv.org/abs/2510.04315">[Arxiv]</a>, 2025
-              <p></p>
-              
-            </td>
-          </tr>
-	<tr>
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              
-                  <img src="images/mice.png" width="180">
-              
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle;">
-              <a href="https://arxiv.org/abs/2509.12600">
-                <papertitle><font size="3">A Multimodal Foundation Model to Enhance Generalizability and Data Efficiency for Pan-cancer Prognosis Prediction</font></papertitle>
-              </a>
-              <br>
-	       Huajun Zhou, Fengtao Zhou, Jiabo Ma, <strong>Yingxue Xu</strong>, Xi Wang, Xiuming Zhang, Li Liang, Zhenhui Li, Hao Chen*
-              <br>
-              <a href="https://arxiv.org/abs/2509.12600">[Arxiv]</a>, 2025
-              <p></p>
-              
-            </td>
-          </tr>
-	<tr>
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              
-                  <img src="images/smartpath-r1.png" width="180">
-              
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle;">
-              <a href="https://arxiv.org/abs/2507.17303">
-                <papertitle><font size="3">A Versatile Pathology Co-pilot via Reasoning Enhanced Multimodal Large Language Model</font></papertitle>
-              </a>
-              <br>
-	       Zhe Xu, Ziyi Liu, Junlin Hou, Jiabo Ma, Cheng Jin, Yihui Wang, Zhixuan Chen, Zhengyu Zhang, Fuxiang Huang, Zhengrui Guo, Fengtao Zhou, <strong>Yingxue Xu</strong>, Xi Wang, Ronald Cheong Kin Chan, Li Liang, Hao Chen*
-              <br>
-              <a href="https://arxiv.org/abs/2507.17303">[Arxiv]</a>, 2025
-              <p></p>
-              
-            </td>
-          </tr>
-   <tr>
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              
-                  <img src="images/genomics.png" width="180">
-              
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle;">
-              <a href="https://www.biorxiv.org/content/10.1101/2025.06.25.661622v1">
-                <papertitle><font size="3">Genomic Touchstone: Benchmarking Genomic Language Models in the Context of the Central Dogma</font></papertitle>
-              </a>
-              <br>
-	       Yihui Wang^, Zhiyuan Cai^, Qian Zeng, Yihang Gao, Jiarui Ouyang, <strong>Yingxue Xu</strong>, Shu Yang, Sunan He, Yuxiang Nie, Yu Cai, Fengtao Zhou, Cheng Jin, Xi Wang,  Zhi Xie, Danqing Zhu, Ting Xie, Kwang-Ting Cheng, Can Yang,  Xi Fu,  Jiguang Wang, Kang Zhang, Jianhua Yao,  Raul Rabadan, Hao Chen*
-              <br>
-              <a href="https://www.biorxiv.org/content/10.1101/2025.06.25.661622v1">[BioRxiv]</a>, 2025
-              <p></p>
-              
-            </td>
-          </tr>
-	  
-   	<tr>
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              
-                  <img src="images/pathlupi.png" width="180">
-              
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle;">
-              <a href="https://arxiv.org/abs/2506.19681">
-                <papertitle><font size="3">Genome-Anchored Foundation Model Embeddings Improve Molecular Prediction from Histology Images</font></papertitle>
-              </a>
-              <br>
-	       Cheng Jin^, Fengtao Zhou^, Yunfang Yu^, Jiabo Ma, Yihui Wang, <strong>Yingxue Xu</strong>, Huajun Zhou, Hao Jiang, Luyang Luo, Luhui Mao, Zifan He, Xiuming Zhang, Jing Zhang, Ronald Chan, Herui Yao*, Hao Chen*
-              <br>
-              <a href="https://arxiv.org/abs/2506.19681">[Arxiv]</a>, 2025
-              <p></p>
-              
-            </td>
-          </tr>
-	  <tr>
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              
-                  <img src="images/pathbench.png" width="180">
-              
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle;">
-              <a href="https://arxiv.org/abs/2505.20202">
-                <papertitle><font size="3">PathBench: A comprehensive comparison benchmark for pathology foundation models towards precision oncology</font></papertitle>
-              </a>
-              <br>
-	       Jiabo Ma^, <strong>Yingxue Xu^</strong>, Fengtao Zhou^, Yihui Wang, Cheng Jin, Zhengrui Guo, Jianfeng Wu, On Ki Tang, Huajun Zhou, Xi Wang, Luyang Luo, Zhengyu Zhang, Du Cai, Zizhao Gao, Wei Wang, Yueping Liu, Jiankun He, Jing Cui, Zhenhui Li, Jing Zhang, Feng Gao*, Xiuming Zhang*, Li Liang*, Ronald Cheong Kin Chan*, Zhe Wang*, Hao Chen*
-              <br>
-              <a href="https://arxiv.org/abs/2505.20202">[Arxiv]</a>, <a href="https://github.com/birkhoffkiki/PathBench">[Repo]</a>, <a href="https://smartlab.cse.ust.hk/showcase/PathBench/">[Website]</a>, 2025
-              <p></p>
-              
-            </td>
-          </tr>
-	<tr>
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              
-                  <img src="images/mm_survey.png" width="180">
-              
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle;">
-              <a href="https://arxiv.org/abs/2406.19611">
-                <papertitle><font size="3">Multimodal data integration for precision oncology: Challenges and future directions</font></papertitle>
-              </a>
-              <br>
-	       Huajun Zhou, Fengtao Zhou, Chenyu Zhao, <strong>Yingxue Xu</strong>, Luyang Luo, Hao Chen*
-              <br>
-              <a href="https://arxiv.org/abs/2406.19611">[Arxiv]</a>, 2024
-              <p></p>
-              
-            </td>
-          </tr>
-          
-         </tbody></table>
-</body>
-
 <h2 id="publication">Selected Publications <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=XY6NCLMAAAAJ">[Full List]</a></h2>
 <body>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;rules:none;"><tbody>
@@ -533,6 +395,144 @@ Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Mi
           </tr> 
 
 
+          
+         </tbody></table>
+</body>
+
+<h2>Preprint</h2>
+<body>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;rules:none;"><tbody> 
+
+       
+	  
+   <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              
+                  <img src="images/pathbench.png" width="180">
+              
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="https://arxiv.org/abs/2505.20202">
+                <papertitle><font size="3">PathBench: A comprehensive comparison benchmark for pathology foundation models towards precision oncology</font></papertitle>
+              </a>
+              <br>
+	       Jiabo Ma^, <strong>Yingxue Xu^</strong>, Fengtao Zhou^, Yihui Wang, Cheng Jin, Zhengrui Guo, Jianfeng Wu, On Ki Tang, Huajun Zhou, Xi Wang, Luyang Luo, Zhengyu Zhang, Du Cai, Zizhao Gao, Wei Wang, Yueping Liu, Jiankun He, Jing Cui, Zhenhui Li, Jing Zhang, Feng Gao*, Xiuming Zhang*, Li Liang*, Ronald Cheong Kin Chan*, Zhe Wang*, Hao Chen*
+              <br>
+              <a href="https://arxiv.org/abs/2505.20202">[Arxiv]</a>, <a href="https://github.com/birkhoffkiki/PathBench">[Repo]</a>, <a href="https://smartlab.cse.ust.hk/showcase/PathBench/">[Website]</a>, 2025
+              <p></p>
+              
+            </td>
+          </tr>
+   <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              
+                  <img src="images/genar.png" width="180">
+              
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="https://arxiv.org/abs/2510.04315">
+                <papertitle><font size="3">GenAR: Next-Scale Autoregressive Generation for Spatial Gene Expression Prediction</font></papertitle>
+              </a>
+              <br>
+	       Jiarui Ouyang^, Yihui Wang^, Yihang Gao, <strong>Yingxue Xu</strong>, Shu Yang, Hao Chen*
+              <br>
+              <a href="https://arxiv.org/abs/2510.04315">[Arxiv]</a>, 2025
+              <p></p>
+              
+            </td>
+          </tr>
+	<tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              
+                  <img src="images/mice.png" width="180">
+              
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="https://arxiv.org/abs/2509.12600">
+                <papertitle><font size="3">A Multimodal Foundation Model to Enhance Generalizability and Data Efficiency for Pan-cancer Prognosis Prediction</font></papertitle>
+              </a>
+              <br>
+	       Huajun Zhou, Fengtao Zhou, Jiabo Ma, <strong>Yingxue Xu</strong>, Xi Wang, Xiuming Zhang, Li Liang, Zhenhui Li, Hao Chen*
+              <br>
+              <a href="https://arxiv.org/abs/2509.12600">[Arxiv]</a>, 2025
+              <p></p>
+              
+            </td>
+          </tr>
+	<tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              
+                  <img src="images/smartpath-r1.png" width="180">
+              
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="https://arxiv.org/abs/2507.17303">
+                <papertitle><font size="3">A Versatile Pathology Co-pilot via Reasoning Enhanced Multimodal Large Language Model</font></papertitle>
+              </a>
+              <br>
+	       Zhe Xu, Ziyi Liu, Junlin Hou, Jiabo Ma, Cheng Jin, Yihui Wang, Zhixuan Chen, Zhengyu Zhang, Fuxiang Huang, Zhengrui Guo, Fengtao Zhou, <strong>Yingxue Xu</strong>, Xi Wang, Ronald Cheong Kin Chan, Li Liang, Hao Chen*
+              <br>
+              <a href="https://arxiv.org/abs/2507.17303">[Arxiv]</a>, 2025
+              <p></p>
+              
+            </td>
+          </tr>
+   <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              
+                  <img src="images/genomics.png" width="180">
+              
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="https://www.biorxiv.org/content/10.1101/2025.06.25.661622v1">
+                <papertitle><font size="3">Genomic Touchstone: Benchmarking Genomic Language Models in the Context of the Central Dogma</font></papertitle>
+              </a>
+              <br>
+	       Yihui Wang^, Zhiyuan Cai^, Qian Zeng, Yihang Gao, Jiarui Ouyang, <strong>Yingxue Xu</strong>, Shu Yang, Sunan He, Yuxiang Nie, Yu Cai, Fengtao Zhou, Cheng Jin, Xi Wang,  Zhi Xie, Danqing Zhu, Ting Xie, Kwang-Ting Cheng, Can Yang,  Xi Fu,  Jiguang Wang, Kang Zhang, Jianhua Yao,  Raul Rabadan, Hao Chen*
+              <br>
+              <a href="https://www.biorxiv.org/content/10.1101/2025.06.25.661622v1">[BioRxiv]</a>, 2025
+              <p></p>
+              
+            </td>
+          </tr>
+	  
+   	<tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              
+                  <img src="images/pathlupi.png" width="180">
+              
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="https://arxiv.org/abs/2506.19681">
+                <papertitle><font size="3">Genome-Anchored Foundation Model Embeddings Improve Molecular Prediction from Histology Images</font></papertitle>
+              </a>
+              <br>
+	       Cheng Jin^, Fengtao Zhou^, Yunfang Yu^, Jiabo Ma, Yihui Wang, <strong>Yingxue Xu</strong>, Huajun Zhou, Hao Jiang, Luyang Luo, Luhui Mao, Zifan He, Xiuming Zhang, Jing Zhang, Ronald Chan, Herui Yao*, Hao Chen*
+              <br>
+              <a href="https://arxiv.org/abs/2506.19681">[Arxiv]</a>, 2025
+              <p></p>
+              
+            </td>
+          </tr>
+	  
+	<tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              
+                  <img src="images/mm_survey.png" width="180">
+              
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;">
+              <a href="https://arxiv.org/abs/2406.19611">
+                <papertitle><font size="3">Multimodal data integration for precision oncology: Challenges and future directions</font></papertitle>
+              </a>
+              <br>
+	       Huajun Zhou, Fengtao Zhou, Chenyu Zhao, <strong>Yingxue Xu</strong>, Luyang Luo, Hao Chen*
+              <br>
+              <a href="https://arxiv.org/abs/2406.19611">[Arxiv]</a>, 2024
+              <p></p>
+              
+            </td>
+          </tr>
           
          </tbody></table>
 </body>
