@@ -82,7 +82,7 @@ td, th {
 </tbody></table>
 
 <h2>Research Interests</h2>
-Foundation Models, Computational Pathology, Multimodal Learning (e.g. Fusion, Missing Modality, Pretraining), Survival Analysis, Breast Cancer, Spatial Transcriptomics, Optimal Transport and Domain Adaptation/Generalization
+AI4Science, Foundation Models, Computational Pathology, Multimodal Learning in Medicine, Survival Analysis, Breast Cancer, Multi-omics, and Optimal Transport.
 
 ---
 (^: Equally Contributed, *: Corresponding Authors)
