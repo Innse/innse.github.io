@@ -117,7 +117,7 @@ AI4Science, Foundation Models, Computational Pathology, Multimodal Learning in M
               
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;">
-              <a href="https://arxiv.org/abs/2407.15362">
+              <a href="https://www.nature.com/articles/s41467-025-66220-x">
                 <papertitle><font size="3">A Multimodal Knowledge-enhanced Whole-slide Pathology Foundation Model</font></papertitle>
               </a>
               <br>
@@ -125,7 +125,7 @@ AI4Science, Foundation Models, Computational Pathology, Multimodal Learning in M
               <br>
 			  <em><strong>Nature Communications</strong></em>, 2025
 	 		  <br>
-              <a href="https://arxiv.org/abs/2407.15362">[Arxiv]</a>, <a href="https://github.com/Innse/mSTAR">[Code]</a>, <a href="https://huggingface.co/Wangyh/mSTAR">[Weights]</a>, <a href="https://smartlab.cse.ust.hk/showcase/PathBench/">[BenchMark]</a>, <a href="https://paper.smartpath.space">[Demo]</a>
+              <a href="https://www.nature.com/articles/s41467-025-66220-x">[Paper]</a>, <a href="https://arxiv.org/abs/2407.15362">[Arxiv]</a>, <a href="https://github.com/Innse/mSTAR">[Code]</a>, <a href="https://huggingface.co/Wangyh/mSTAR">[Weights]</a>, <a href="https://smartlab.cse.ust.hk/showcase/PathBench/">[BenchMark]</a>, <a href="https://paper.smartpath.space">[Demo]</a>
               <p></p>
               
             </td>
