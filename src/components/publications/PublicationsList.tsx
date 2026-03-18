@@ -1,15 +1,13 @@
 'use client';
 
 import { useState, useMemo } from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
+import { motion } from 'framer-motion';
 import Image from 'next/image';
 import {
     MagnifyingGlassIcon,
     FunnelIcon,
     CalendarIcon,
-    BookOpenIcon,
-    ClipboardDocumentIcon,
-    DocumentTextIcon
+    BookOpenIcon
 } from '@heroicons/react/24/outline';
 import { Publication } from '@/types/publication';
 import { PublicationPageConfig } from '@/types/page';
@@ -28,8 +26,6 @@ export default function PublicationsList({ config, publications, embedded = fals
     const [selectedYear, setSelectedYear] = useState<number | 'all'>('all');
     const [selectedType, setSelectedType] = useState<string | 'all'>('all');
     const [showFilters, setShowFilters] = useState(false);
-    const [expandedBibtexId, setExpandedBibtexId] = useState<string | null>(null);
-    const [expandedAbstractId, setExpandedAbstractId] = useState<string | null>(null);
 
     const getPaperLink = (pub: Publication): string | undefined => {
         if (pub.url) return pub.url;
@@ -56,22 +52,6 @@ export default function PublicationsList({ config, publications, embedded = fals
         const uniqueTypes = Array.from(new Set(publications.map(p => p.type)));
         return uniqueTypes.sort();
     }, [publications]);
-
-    // Filter publications
-    const filteredPublications = useMemo(() => {
-        return publications.filter(pub => {
-            const matchesSearch =
-                pub.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
-                pub.authors.some(author => author.name.toLowerCase().includes(searchQuery.toLowerCase())) ||
-                pub.journal?.toLowerCase().includes(searchQuery.toLowerCase()) ||
-                pub.conference?.toLowerCase().includes(searchQuery.toLowerCase());
-
-            const matchesYear = selectedYear === 'all' || pub.year === selectedYear;
-            const matchesType = selectedType === 'all' || pub.type === selectedType;
-
-            return matchesSearch && matchesYear && matchesType;
-        });
-    }, [publications, searchQuery, selectedYear, selectedType]);
 
     const renderPublication = (pub: Publication, index: number) => {
         const paperLink = getPaperLink(pub);
