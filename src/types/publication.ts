@@ -28,6 +28,9 @@ export interface Publication {
   url?: string;
   code?: string;
   pdfUrl?: string;
+  demo?: string;
+  benchmark?: string;
+  weights?: string;
   tags: string[];
   keywords?: string[];
   type: PublicationType;

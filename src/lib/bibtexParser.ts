@@ -84,13 +84,17 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
       doi: tags.doi,
       url: tags.url,
       code: tags.code,
+      pdfUrl: tags.pdf,
+      demo: tags.demo,
+      benchmark: tags.benchmark,
+      weights: tags.weights,
       abstract: cleanBibTeXString(tags.abstract),
       description: cleanBibTeXString(tags.description || tags.note),
       selected,
       preview,
 
       // Store original BibTeX (excluding custom fields)
-      bibtex: reconstructBibTeX(entry, ['selected', 'preview', 'description', 'keywords', 'code']),
+      bibtex: reconstructBibTeX(entry, ['selected', 'preview', 'description', 'keywords', 'code', 'demo', 'benchmark', 'weights']),
     };
 
     // Clean up undefined fields
@@ -169,7 +173,7 @@ function buildNameVariants(name: string): Set<string> {
   return variants;
 }
 
-function parseAuthors(authorsStr: string, highlightNames: string[]): Array<{ name: string; isHighlighted?: boolean; isCorresponding?: boolean; isCoAuthor?: boolean }> {
+function parseAuthors(authorsStr: string, highlightNames: string[]): Array<{ name: string; isHighlighted?: boolean; isCorresponding?: boolean; isCoAuthor?: boolean; isMainAuthor?: boolean }> {
   if (!authorsStr) return [];
 
   const highlightTextCandidates = new Set<string>();
@@ -199,8 +203,11 @@ function parseAuthors(authorsStr: string, highlightNames: string[]): Array<{ nam
       // Check for co-author marker (#)
       const isCoAuthor = name.includes('#');
 
+      // Check for equally contributed marker (^)
+      const isMainAuthor = name.includes('^');
+
       // Remove special markers from name
-      name = name.replace(/[*#]/g, '');
+      name = name.replace(/[*#^]/g, '');
 
       // Handle "Last, First" format
       if (name.includes(',')) {
@@ -222,6 +229,7 @@ function parseAuthors(authorsStr: string, highlightNames: string[]): Array<{ nam
         isHighlighted,
         isCorresponding,
         isCoAuthor,
+        isMainAuthor,
       };
     })
     .filter(author => author.name);
@@ -249,6 +257,7 @@ function cleanBibTeXString(str?: string): string {
   cleaned = cleaned.replace(/[{}]/g, '');
 
   // Handle LaTeX commands (basic)
+  cleaned = cleaned.replace(/\\%/g, '%');
   cleaned = cleaned.replace(/\\textbf{([^}]*)}/g, '$1');
   cleaned = cleaned.replace(/\\emph{([^}]*)}/g, '$1');
   cleaned = cleaned.replace(/\\cite{[^}]*}/g, '');

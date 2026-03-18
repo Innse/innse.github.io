@@ -1,7 +1,1 @@
 I am a Ph.D Candidate (2022 Fall) at [SMARTLab](https://smartlab.cse.ust.hk/) in CSE of [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) supervised by Prof. [Hao CHEN](https://cse.hkust.edu.hk/~jhc/). Before that, I obtained the B.Eng and M.Sc. degree in CS from [South China University of Technology (SCUT)](http://www.scut.edu.cn) in 2019 and 2022.
-
-## Research Interests
-
-AI4Science, Foundation Models, Computational Pathology, Multimodal Learning in Medicine, Survival Analysis, Breast Cancer, Multi-omics, and Optimal Transport.
-
-(^: Equally Contributed, *: Corresponding Authors)
