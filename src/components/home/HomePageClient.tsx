@@ -101,7 +101,7 @@ export default function HomePageClient({ dataByLocale, defaultLocale }: HomePage
                     return (
                       <News
                         key={section.id}
-                        items={section.items || []}
+                        items={(section.items || []) as NewsItem[]}
                         title={section.title}
                       />
                     );
