@@ -24,6 +24,7 @@ export interface Publication {
   publishedDate?: string;
   doi?: string;
   arxivId?: string;
+  eprint?: string;
   pmid?: string;
   url?: string;
   code?: string;
