@@ -1,7 +1,67 @@
 [[news]]
-date = "2025-11"
-content = "Our work has been accepted by a prestigious journal 🎉"
+date = "2025-10"
+content = "One paper (co-author) was accepted by The Innovation Informatics!"
+
+[[news]]
+date = "2025-10"
+content = "One paper (co-author) was accepted by Nature Biomedical Engineering (NBME)!"
 
 [[news]]
 date = "2025-09"
-content = "Starting my PhD at the University of Example"
+content = "One paper was accepted by Nature Communications!"
+
+[[news]]
+date = "2025-05"
+content = "Excited to announce our latest work, a pathology benchmark, PathBench."
+
+[[news]]
+date = "2025-04"
+content = "One paper (co-author) was accepted by Nature Biomedical Engineering (NBME)."
+
+[[news]]
+date = "2025-03"
+content = "Thrilled to release the weights and code for mSTAR. The manuscript is updated and results are released at our PathBench."
+
+[[news]]
+date = "2025-02"
+content = "One paper was accepted by CVPR 2025."
+
+[[news]]
+date = "2025-01"
+content = "One paper (co-author) was accepted by IEEE Transactions on Medical Imaging (TMI)."
+
+[[news]]
+date = "2024-07"
+content = "Thrilled to announce our latest work mSTAR, a multimodal-enhanced whole slide pathology foundation model."
+
+[[news]]
+date = "2024-06"
+content = "One paper (co-author) was accepted by MICCAI 2024."
+
+[[news]]
+date = "2024-04"
+content = "One paper was accepted by TCSVT."
+
+[[news]]
+date = "2024-01"
+content = "One paper was accepted by ICLR 2024 as Spotlight paper!!"
+
+[[news]]
+date = "2023-07"
+content = "One paper was accepted by ICCV 2023!!"
+
+[[news]]
+date = "2022-08"
+content = "I start Ph.D at SMARTLab@HKUST on 2022 Fall."
+
+[[news]]
+date = "2022-06"
+content = "I received my master degree at SCUT."
+
+[[news]]
+date = "2021-06"
+content = "I start internship at Tencent AI Lab."
+
+[[news]]
+date = "2020-12"
+content = "I'm honored with National Scholarship."

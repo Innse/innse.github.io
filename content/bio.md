@@ -1,5 +1,7 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I am a Ph.D Candidate (2022 Fall) at [SMARTLab](https://smartlab.cse.ust.hk/) in CSE of [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) supervised by Prof. [Hao CHEN](https://cse.hkust.edu.hk/~jhc/). Before that, I obtained the B.Eng and M.Sc. degree in CS from [South China University of Technology (SCUT)](http://www.scut.edu.cn) in 2019 and 2022.
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+## Research Interests
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+AI4Science, Foundation Models, Computational Pathology, Multimodal Learning in Medicine, Survival Analysis, Breast Cancer, Multi-omics, and Optimal Transport.
+
+(^: Equally Contributed, *: Corresponding Authors)

@@ -3,9 +3,14 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Computational Physics",
-  "Mathematical Principles",
-  "Proof of Theorems"
+  "AI4Science",
+  "Foundation Models",
+  "Computational Pathology",
+  "Multimodal Learning in Medicine",
+  "Survival Analysis",
+  "Breast Cancer",
+  "Multi-omics",
+  "Optimal Transport"
 ]
 
 [[sections]]
@@ -26,4 +31,3 @@ id = "news"
 type = "list"
 title = "News"
 source = "news.toml"
-
