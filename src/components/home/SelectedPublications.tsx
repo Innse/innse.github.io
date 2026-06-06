@@ -21,10 +21,7 @@ export default function SelectedPublications({ publications, title, enableOnePag
     const resolvedTitle = title || messages.home.selectedPublications;
 
     const journalPubs = publications.filter(p => p.journal).sort((a, b) => {
-        const aFirst = isFirstAuthor(a) ? 0 : 1;
-        const bFirst = isFirstAuthor(b) ? 0 : 1;
-        if (aFirst !== bFirst) return aFirst - bFirst;
-        return b.year - a.year;
+        return (a.sourceOrder ?? Number.MAX_SAFE_INTEGER) - (b.sourceOrder ?? Number.MAX_SAFE_INTEGER);
     });
 
     const conferencePubs = publications.filter(p => p.conference).sort((a, b) => {

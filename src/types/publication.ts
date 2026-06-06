@@ -46,6 +46,7 @@ export interface Publication {
   featured?: boolean;
   selected?: boolean;
   preview?: string;
+  sourceOrder?: number;
   summary?: string;
   researchArea: ResearchArea;
   description?: string;
@@ -81,4 +82,3 @@ export type ResearchArea =
   | 'transformer-architectures'
   | 'biomedical-engineering'
   | 'other';
-
