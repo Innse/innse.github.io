@@ -14,7 +14,7 @@ interface NewsProps {
 }
 
 function formatContent(content: string) {
-    const venuePattern = /(Nature Communications|Nature Biomedical Engineering|The Innovation Informatics|IEEE Transactions on Medical Imaging|CVPR|MICCAI|ICLR|ICCV|TCSVT)/g;
+    const venuePattern = /(Young Scientists Program Scholarship|Nature Communications|Nature Biomedical Engineering|The Innovation Informatics|IEEE Transactions on Medical Imaging|BRAVE|STAMP|ECCV|CVPR|MICCAI|ICLR|ICCV|TCSVT)/g;
     const parts = content.split(venuePattern);
     
     return parts.map((part, i) => {

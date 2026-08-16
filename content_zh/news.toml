@@ -1,4 +1,20 @@
 [[news]]
+date = "2026-08"
+content = "荣获 Young Scientists Program Scholarship。"
+
+[[news]]
+date = "2026-06"
+content = "一篇论文（共同作者）被 ECCV 接收！祝贺 Yihui！"
+
+[[news]]
+date = "2026-06"
+content = "发布 STAMP 模型：Spatial Transcriptomics-Guided pathology foundation model for molecular profiling。"
+
+[[news]]
+date = "2026-05"
+content = "发布 BRAVE 模型：a breast pathology foundation model toward clinical utility，展示了病理基础模型如何转化到临床实践。"
+
+[[news]]
 date = "2025-11"
 content = "我们的工作被顶级期刊接收了 🎉"
 
