@@ -58,6 +58,7 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
 
     // Parse selected field (convert string to boolean)
     const selected = tags.selected === 'true' || tags.selected === 'yes';
+    const displayOrder = tags.display_order ? parseInt(tags.display_order) : undefined;
 
     // Parse preview field (remove braces if present)
     const preview = tags.preview?.replace(/[{}]/g, '');
@@ -93,11 +94,12 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
       abstract: cleanBibTeXString(tags.abstract),
       description: cleanBibTeXString(tags.description || tags.note),
       selected,
+      displayOrder,
       preview,
       sourceOrder: index,
 
       // Store original BibTeX (excluding custom fields)
-      bibtex: reconstructBibTeX(entry, ['selected', 'preview', 'description', 'keywords', 'code', 'demo', 'benchmark', 'weights']),
+      bibtex: reconstructBibTeX(entry, ['selected', 'display_order', 'preview', 'description', 'keywords', 'code', 'demo', 'benchmark', 'weights']),
     };
 
     // Clean up undefined fields
@@ -109,6 +111,10 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
 
     return publication;
   }).sort((a: Publication, b: Publication) => {
+    if (a.displayOrder !== undefined && b.displayOrder !== undefined && a.displayOrder !== b.displayOrder) {
+      return a.displayOrder - b.displayOrder;
+    }
+
     // Sort by year (descending), then by month if available
     if (b.year !== a.year) return b.year - a.year;
 

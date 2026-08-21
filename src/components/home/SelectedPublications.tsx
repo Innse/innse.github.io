@@ -25,6 +25,9 @@ export default function SelectedPublications({ publications, title, enableOnePag
     });
 
     const conferencePubs = publications.filter(p => p.conference).sort((a, b) => {
+        if (a.displayOrder !== undefined && b.displayOrder !== undefined && a.displayOrder !== b.displayOrder) {
+            return a.displayOrder - b.displayOrder;
+        }
         const aFirst = isFirstAuthor(a) ? 0 : 1;
         const bFirst = isFirstAuthor(b) ? 0 : 1;
         if (aFirst !== bFirst) return aFirst - bFirst;
@@ -32,6 +35,9 @@ export default function SelectedPublications({ publications, title, enableOnePag
     });
 
     const preprintPubs = publications.filter(p => !p.journal && !p.conference).sort((a, b) => {
+        if (a.displayOrder !== undefined && b.displayOrder !== undefined && a.displayOrder !== b.displayOrder) {
+            return a.displayOrder - b.displayOrder;
+        }
         const aFirst = isFirstAuthor(a) ? 0 : 1;
         const bFirst = isFirstAuthor(b) ? 0 : 1;
         if (aFirst !== bFirst) return aFirst - bFirst;

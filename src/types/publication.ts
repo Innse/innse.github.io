@@ -45,6 +45,7 @@ export interface Publication {
   awards?: string[];
   featured?: boolean;
   selected?: boolean;
+  displayOrder?: number;
   preview?: string;
   sourceOrder?: number;
   summary?: string;
