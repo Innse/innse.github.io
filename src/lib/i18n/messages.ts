@@ -22,9 +22,6 @@ export interface LocaleMessages {
     send: string;
     sendEmail: string;
     researchInterests: string;
-    like: string;
-    liked: string;
-    thanks: string;
   };
   home: {
     about: string;
@@ -41,10 +38,6 @@ export interface LocaleMessages {
     abstract: string;
     bibtex: string;
     code: string;
-  };
-  footer: {
-    lastUpdated: string;
-    builtWithPrism: string;
   };
 }
 
@@ -72,9 +65,6 @@ const en: LocaleMessages = {
     send: 'Send',
     sendEmail: 'Send Email',
     researchInterests: 'Research Interests',
-    like: 'Like',
-    liked: 'Liked',
-    thanks: 'Thanks!',
   },
   home: {
     about: 'About',
@@ -91,10 +81,6 @@ const en: LocaleMessages = {
     abstract: 'Abstract',
     bibtex: 'BibTeX',
     code: 'Code',
-  },
-  footer: {
-    lastUpdated: 'Last updated',
-    builtWithPrism: 'Built with PRISM',
   },
 };
 
@@ -122,9 +108,6 @@ const zh: LocaleMessages = {
     send: '发送',
     sendEmail: '发送邮件',
     researchInterests: '研究兴趣',
-    like: '点赞',
-    liked: '已点赞',
-    thanks: '感谢支持！',
   },
   home: {
     about: '关于我',
@@ -141,10 +124,6 @@ const zh: LocaleMessages = {
     abstract: '摘要',
     bibtex: 'BibTeX',
     code: '代码',
-  },
-  footer: {
-    lastUpdated: '最近更新',
-    builtWithPrism: '由 PRISM 构建',
   },
 };
 

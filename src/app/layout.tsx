@@ -1,7 +1,6 @@
 import type { Metadata } from 'next';
 import './globals.css';
 import Navigation from '@/components/layout/Navigation';
-import Footer from '@/components/layout/Footer';
 import { ThemeProvider } from '@/components/ui/ThemeProvider';
 import { LocaleProvider } from '@/components/ui/LocaleProvider';
 import { getConfig } from '@/lib/config';
@@ -91,23 +90,19 @@ function buildLocalizedConfigMaps(
 ): {
   navigationByLocale: Record<string, SiteConfig['navigation']>;
   siteTitleByLocale: Record<string, string>;
-  lastUpdatedByLocale: Record<string, string | undefined>;
 } {
   const navigationByLocale: Record<string, SiteConfig['navigation']> = {};
   const siteTitleByLocale: Record<string, string> = {};
-  const lastUpdatedByLocale: Record<string, string | undefined> = {};
 
   for (const locale of locales) {
     const localizedConfig = getConfig(locale);
     navigationByLocale[locale] = localizedConfig.navigation;
     siteTitleByLocale[locale] = localizedConfig.site.title;
-    lastUpdatedByLocale[locale] = localizedConfig.site.last_updated;
   }
 
   return {
     navigationByLocale,
     siteTitleByLocale,
-    lastUpdatedByLocale,
   };
 }
 
@@ -123,7 +118,6 @@ export default function RootLayout({
   const {
     navigationByLocale,
     siteTitleByLocale,
-    lastUpdatedByLocale,
   } = buildLocalizedConfigMaps(targetLocales);
 
   return (
@@ -179,11 +173,6 @@ export default function RootLayout({
             <main className="min-h-screen pt-16 lg:pt-20">
               {children}
             </main>
-            <Footer
-              lastUpdated={config.site.last_updated}
-              lastUpdatedByLocale={lastUpdatedByLocale}
-              defaultLocale={runtimeI18n.defaultLocale}
-            />
           </LocaleProvider>
         </ThemeProvider>
       </body>
