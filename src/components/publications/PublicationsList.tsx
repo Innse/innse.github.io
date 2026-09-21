@@ -67,12 +67,17 @@ export default function PublicationsList({ config, publications, embedded = fals
                 <div className="flex flex-col md:flex-row gap-6">
                     {pub.preview && (
                         <div className="w-full md:w-48 flex-shrink-0">
-                            <div className="aspect-video md:aspect-[4/3] relative rounded-lg overflow-hidden bg-neutral-100 dark:bg-neutral-800">
+                            <div className={cn(
+                                "relative rounded-lg overflow-hidden",
+                                pub.preview === 'oneslide.png'
+                                    ? "aspect-[1282/562] bg-white"
+                                    : "aspect-video md:aspect-[4/3] bg-neutral-100 dark:bg-neutral-800"
+                            )}>
                                 <Image
                                     src={`/images/${pub.preview}`}
                                     alt={pub.title}
                                     fill
-                                    className="object-cover"
+                                    className={pub.preview === 'oneslide.png' ? 'object-contain' : 'object-cover'}
                                     sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                                 />
                             </div>
